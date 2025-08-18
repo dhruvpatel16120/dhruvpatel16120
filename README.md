@@ -1,76 +1,7 @@
-
-<!-- ==== Begin README.md ==== -->
-
-<style>
-/* Global body — space background */
-body {
-  background: #0a0f1e;
-  color: #e0e7ff;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-/* Typing animation for intro */
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blinkCaret {
-  from, to { border-color: transparent; }
-  50% { border-color: #00aeff; }
-}
-.typing-effect {
-  font-size: 1.5rem;
-  font-weight: bold;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: .15em solid #00aeff;
-  width: 0;
-  animation:
-    typing 4s steps(40, end) 1s forwards,
-    blinkCaret .75s step-end infinite;
-}
-
-/* Glowing blue text */
-.glow-blue {
-  color: #66daff;
-  text-shadow:
-    0 0 5px #66daff,
-    0 0 10px #66daff,
-    0 0 20px #00aeff,
-    0 0 30px #00aeff,
-    0 0 40px #00aeff;
-}
-
-/* Section headings in space theme */
-.section-heading {
-  font-size: 1.8rem;
-  color: #a1cfff;
-  border-bottom: 2px solid #66daff;
-  padding-bottom: 0.2em;
-  margin-top: 1.5em;
-}
-
-/* Tech icons row */
-.tech-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
-}
-
-/* Widget container styling */
-.widgets {
-  margin-top: 2em;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-</style>
-
 <div align="center">
-  <!-- Typing-effect intro -->
-  <div class="typing-effect">👋 Hello, welcome to my space corner…</div>
-</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ED6FF&width=450&height=70&lines=Hello+There+%F0%9F%91%8B+!.......;I+am+Dhruv+Patel+%E2%9C%A8;I+am+an+AI+%26+Data+Science+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+!;Welcome+to+My+Code+Space+Corner+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+!;Feel+free+to+Explore+My+Work+%E2%98%BA%EF%B8%8F+!..........)](https://git.io/typing-svg)
+</div>
 <div align="center" style="margin-top: 1em;">
   <!-- Glowing blue self-description -->
   <p class="glow-blue">
