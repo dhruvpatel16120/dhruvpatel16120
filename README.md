@@ -193,43 +193,11 @@
   </div>
 </div>
 
-<!-- CSS Styling for Cyberpunk Theme -->
-<style>
-  /* Cyberpunk Color Scheme */
-  :root {
-    --neon-blue: #00FFFF;
-    --neon-pink: #FF00FF;
-    --neon-green: #00FF00;
-    --neon-orange: #FF6B6B;
-    --dark-bg: #0D1117;
-    --matrix-green: #00FF41;
-  }
-  
-  /* Glowing Text Effect */
-  .glow-text {
-    text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue), 0 0 30px var(--neon-blue);
-  }
-  
-  /* Hover Effects for Links */
-  a:hover {
-    transform: scale(1.1);
-    transition: all 0.3s ease;
-  }
-  
-  /* Matrix Rain Effect Background */
-  body {
-    background: linear-gradient(45deg, var(--dark-bg), #1a1a2e);
-  }
-  
-  /* Animated Border */
-  .cyber-border {
-    border: 2px solid var(--neon-blue);
-    box-shadow: 0 0 20px var(--neon-blue);
-    animation: glow 2s ease-in-out infinite alternate;
-  }
-  
-  @keyframes glow {
-    from { box-shadow: 0 0 20px var(--neon-blue); }
-    to { box-shadow: 0 0 30px var(--neon-blue), 0 0 40px var(--neon-blue); }
-  }
-</style>
+---
+
+<!-- Additional Cyberpunk Elements -->
+<div align="center">
+  <h3>🔄 SYSTEM STATUS: <span style="color: #00FF00;">ONLINE</span></h3>
+  <p>⚡ <strong>Last Updated:</strong> <span style="color: #00FFFF;">$(date)</span></p>
+  <p>🌐 <strong>Matrix Protocol:</strong> <span style="color: #FF00FF;">ACTIVE</span></p>
+</div>
