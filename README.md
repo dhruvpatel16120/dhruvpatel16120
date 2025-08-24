@@ -4,7 +4,16 @@
   
   <!-- 3D Animated Profile Banner -->
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvpatel16120&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="Trophy Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dhruvpatel16120&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="Trophy Stats" onerror="this.style.display='none'"/>
+    
+    <!-- Fallback Trophy Display -->
+    <div align="center" style="margin-top: 20px;">
+      <img src="https://img.shields.io/badge/GitHub%20Profile%20Trophy-🏆%20Loading...-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Trophy Loading"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Stars%20Earned-⭐%20Multiple-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars"/>
+      <img src="https://img.shields.io/badge/Repositories-📁%20Active-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Repositories"/>
+      <img src="https://img.shields.io/badge/Contributions-🔥%20Streak-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+    </div>
   </div>
 </div>
 
