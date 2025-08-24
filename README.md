@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cyberpunk Header with Glowing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FFFF&width=600&height=80&lines=SYSTEM_INITIALIZED;NEURAL_NETWORK_ACTIVE;WELCOME_TO_THE_MATRIX;ENTER_DHRUV_PATEL_16120.exe" alt="Cyberpunk Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFFF&width=600&height=80&lines=SYSTEM_INITIALIZED;NEURAL_NETWORK_ACTIVE;WELCOME_TO_THE_MATRIX;ENTER_DHRUV_PATEL_16120.exe" alt="Cyberpunk Typing" />
   
   <!-- 3D Animated Profile Banner -->
   <img src="https://github-profile-trophy.vercel.app/?username=dhruvpatel16120&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="Trophy Stats" />
@@ -156,11 +156,3 @@
 </p>
 
 ---
-
-<!-- Additional Cyberpunk Elements -->
-## 🔄 SYSTEM STATUS: <span style="color: #00FF00;">ONLINE</span>
-
-<p align="center">
-  ⚡ <strong>Last Updated:</strong> <span style="color: #00FFFF;">$(date)</span><br/>
-  🌐 <strong>Matrix Protocol:</strong> <span style="color: #FF00FF;">ACTIVE</span>
-</p>
