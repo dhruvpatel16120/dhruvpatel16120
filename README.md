@@ -102,12 +102,12 @@
 
 <p align="center">
 
-| **Metric** | **Value** | **Status** |
-|------------|-----------|------------|
-| 🚀 **GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvpatel16120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF) | ✅ **ACTIVE** |
-| 🔥 **Streak Stats** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel16120&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF6B6B) | ✅ **ACTIVE** |
-| 📈 **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel16120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8) | ✅ **ACTIVE** |
-| 📊 **Contribution Graph** | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvpatel16120&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FF6B6B) | ✅ **ACTIVE** |
+| **Metric** | **Value** |
+|------------|-----------|
+| 🚀 **GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvpatel16120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF) | 
+| 🔥 **Streak Stats** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel16120&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF6B6B) |
+| 📈 **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel16120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8) | 
+| 📊 **Contribution Graph** | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvpatel16120&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FF6B6B) |
 
 </p>
 
