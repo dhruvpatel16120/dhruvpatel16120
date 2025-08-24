@@ -161,29 +161,29 @@
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" width="60"/>
         <h3>JavaScript</h3>
       </a>
-      <p>Core programming language of the web.</p>
+      <p>Core programming language of the web.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" width="60"/>
         <h3>CSS</h3>
       </a>
-      <p>Styling language for modern web pages.</p>
+      <p>Styling language for modern web pages.</p><br>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="60"/>
         <h3>HTML</h3>
       </a>
-      <p>Standard markup language for the web.</p>
+      <p>Standard markup language for the web.</p><br>
     </td>
   </tr>
 </table>
@@ -194,44 +194,44 @@
 
 <table width="100%" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" width="60"/>
         <h3>Firebase</h3>
       </a>
-      <p>Backend-as-a-service for authentication, DB, hosting & more.</p>
+      <p>Backend-as-a-service for authentication, DB, hosting & more.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=django" width="60"/>
         <h3>Django</h3>
       </a>
-      <p>Python framework for scalable & secure web applications.</p>
+      <p>Python framework for scalable & secure web applications.</p><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://nextjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
         <h3>Next.js</h3>
       </a>
-      <p>React framework for server-side rendering & fullstack apps.</p>
+      <p>React framework for server-side rendering & fullstack apps.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" width="60"/>
         <h3>Python</h3>
       </a>
-      <p>General-purpose programming language powering backend & AI.</p>
+      <p>General-purpose programming language powering backend & AI.</p><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
         <h3>Node.js</h3>
       </a>
-      <p>JavaScript runtime for scalable backend development.</p>
+      <p>JavaScript runtime for scalable backend development.</p><br>
     </td>
   </tr>
 </table>
@@ -242,19 +242,19 @@
 
 <table width="100%" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgresql" width="60"/>
         <h3>PostgreSQL</h3>
       </a>
-      <p>Advanced relational database with open-source power.</p>
+      <p>Advanced relational database with open-source power.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.sqlite.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=sqlite" width="60"/>
         <h3>SQLite</h3>
       </a>
-      <p>Lightweight database embedded into applications.</p>
+      <p>Lightweight database embedded into applications.</p><br>
     </td>
   </tr>
 </table>
@@ -265,87 +265,87 @@
 
 <table width="100%" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" width="60"/>
         <h3>Git</h3>
       </a>
-      <p>Version control system for tracking code changes.</p>
+      <p>Version control system for tracking code changes.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="60"/>
         <h3>GitHub</h3>
       </a>
-      <p>Code hosting, collaboration & CI/CD platform.</p>
+      <p>Code hosting, collaboration & CI/CD platform.</p><br>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" width="60"/>
         <h3>Linux</h3>
       </a>
-      <p>Open-source operating system for developers & servers.</p>
+      <p>Open-source operating system for developers & servers.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://endeavouros.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/EndeavourOS-icon.png" width="60"/>
         <h3>EndeavourOS</h3>
       </a>
-      <p>Arch-based Linux distro with simplicity & power.</p>
+      <p>Arch-based Linux distro with simplicity & power.</p><br>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://github.com/hyprwm/Hyprland" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/101733834?s=200&v=4" width="60"/>
-        <h3>Hyprland</h3>
+        <img src="https://raw.githubusercontent.com/HyDE-Project/HyDE/refs/heads/master/Source/assets/hyprdots_logo.png" width="60"/>
+        <h3>Hyprland + Hyde </h3>
       </a>
-      <p>Dynamic tiling Wayland compositor (dotfiles project).</p>
+      <p>Dynamic tiling Wayland compositor (dotfiles project).</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.microsoft.com/windows" target="_blank">
         <img src="https://skillicons.dev/icons?i=windows" width="60"/>
         <h3>Windows 11</h3>
       </a>
-      <p>Microsoft’s latest OS for productivity & development.</p>
+      <p>Microsoft’s latest OS for productivity & development.</p><br>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
         <h3>VS Code</h3>
       </a>
-      <p>Lightweight & powerful code editor by Microsoft.</p>
+      <p>Lightweight & powerful code editor by Microsoft.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://cursor.sh/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="60"/>
         <h3>Cursor AI IDE</h3>
       </a>
-      <p>AI-powered IDE built on VS Code.</p>
+      <p>AI-powered IDE built on VS Code.</p><br>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.vmware.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" width="60"/>
         <h3>VMware</h3>
       </a>
-      <p>Virtualization platform for running OS instances.</p>
+      <p>Virtualization platform for running OS instances.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://brave.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=brave" width="60"/>
         <h3>Brave Browser</h3>
       </a>
-      <p>Privacy-focused browser with built-in ad-blocker.</p>
+      <p>Privacy-focused browser with built-in ad-blocker.</p><br>
     </td>
   </tr>
 </table>
@@ -356,67 +356,22 @@
 
 <table width="100%" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://vercel.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="60"/>
         <h3>Vercel</h3>
       </a>
-      <p>Cloud platform for frontend frameworks & static sites.</p>
+      <p>Cloud platform for frontend frameworks & static sites.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.netlify.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=netlify" width="60"/>
         <h3>Netlify</h3>
       </a>
-      <p>Deploy modern websites with serverless functions.</p>
+      <p>Deploy modern websites with serverless functions.</p><br>
     </td>
   </tr>
 </table>
-
-
-<a name="techstack"></a>
-## ⚡ Tech Stack
-
-<p align="center">
-  <em>Here’s a structured view of my technologies, tools & frameworks 🛠️</em>
-</p>
-
-<table align="center" cellspacing="30" cellpadding="20">
-  <tr>
-    <!-- Frontend -->
-    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3);">
-      <h3 style="color:#00FFFF;">🎨 Frontend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" height="45" />
-      </p>
-    </td>
-    <!-- Backend -->
-    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3);">
-      <h3 style="color:#FF00FF;">⚙️ Backend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,firebase" height="45" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Databases -->
-    <td align="center" width="45%" style="border:2px solid #39FF14; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(57,255,20,0.3);">
-      <h3 style="color:#39FF14;">🗄️ Databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" height="45" />
-      </p>
-    </td>
-    <!-- Workspace Tools -->
-    <td align="center" width="45%" style="border:2px solid #FFD700; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,215,0,0.3);">
-      <h3 style="color:#FFD700;">🛠️ Workspace Tools</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" height="45" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 
 ---
 
