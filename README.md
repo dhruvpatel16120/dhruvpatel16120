@@ -291,7 +291,7 @@
     </td>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://endeavouros.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/EndeavourOS-icon.png" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" width="60"/>
         <h3>EndeavourOS</h3>
       </a>
       <p>Arch-based Linux distro with simplicity & power.</p><br>
@@ -340,9 +340,9 @@
       </a>
       <p>Virtualization platform for running OS instances.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" width="50%" stye=border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://brave.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=brave" width="60"/>
+        <img src="" width="60"/>
         <h3>Brave Browser</h3>
       </a>
       <p>Privacy-focused browser with built-in ad-blocker.</p><br>
