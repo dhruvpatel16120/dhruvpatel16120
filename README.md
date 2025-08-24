@@ -4,14 +4,19 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlaXF1emhxdTc3bzRueDJoYXlmN2prazYzZG5mZzJ5MGpqaTRkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KouuVwfTuArOWeerLM/giphy.gif" width="100%" />
 </div>
 
+---
+
 <!-- Cyberpunk Navigation Bar -->
 ## 💫 Explore My Profile
+<br>
 <p align="center">
   <a href="#about">🔮 ABOUT</a> • 
   <a href="#tech">⚡ TECH STACK</a> • 
+  <a href="#projects">🏗️ Top Projects </a> •
   <a href="#stats">📊 STATS</a> • 
   <a href="#contact">🌐 CONNECT</a>
 </p>
+<br>
 
 ---
 
@@ -19,22 +24,52 @@
 <a name="about"></a>
 ## 🔮 ABOUT_ME 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl0H6/giphy.gif" width="400" alt="Matrix Code"/>
-</p>
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" width="400" alt="Matrix Code"/>
+</div>
 
-<p align="center">
-  <strong>🚀 FULL-STACK DEVELOPER TURNED AI/ML EXPLORER</strong><br/>
-  <em>Bridging the digital realm between web development and artificial intelligence</em><br/>
-  <strong>🌍 Location:</strong> India | <strong>🎯 Mission:</strong> Conquer the data universe
-</p>
+<div align="center">
 
-<!-- Animated Status Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" alt="Status"/>
-  <img src="https://img.shields.io/badge/Level-99%20Hacker-blue?style=for-the-badge&logo=github&logoColor=white" alt="Level"/>
-  <img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/>
-</p>
+### 👋 Hello, I'm <span style="color:#00FFFF;">Dhruv Patel</span>  
+💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🚀 Innovator  
+
+---
+
+<table>
+  <tr>
+    <!-- Left Side (GIF / Avatar) -->
+    <td width="40%" align="center">
+      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Guy"/>
+      <br/><br/>
+      <ui>   
+      <li><img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" /></li>
+      <li><img src="https://img.shields.io/badge/Location-India-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Level-99%20Hacker-blue?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></li>
+      <li><img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/></li>
+      </ui>
+    </td>
+    <!-- Right Side (Details) -->
+    <td width="60%" style="padding:20px;">
+
+### ⚡ Who Am I?
+- 🚀 A **Full-Stack Developer** passionate about **React, Next.js, Django, and AI**.  
+- 🧠 Exploring **Machine Learning, Neural Networks, and Data Science**.  
+- 🌍 Building **3D futuristic websites** with Three.js & WebGL.  
+- 🎯 Mission: *"Blend creativity with logic to craft digital wonders."*  
+
+### 🔥 Core Highlights
+- ⌨️ 5+ years coding experience  
+- 🎨 Loves **UI/UX & 3D Web Design**  
+- 🤝 Believes in **teamwork, mentorship & collaboration**  
+- 🌐 Contributing to **open-source projects**  
+
+### 📌 Motto  
+> *“Every line of code is a step closer to the future.”*
+<br>
+   </td>
+  </tr>
+</table>
+</div>
 
 ## 🌟 My Strengths :-
 
