@@ -2,9 +2,20 @@
   <!-- Cyberpunk Header with Glowing Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFFF&width=600&height=80&lines=SYSTEM_INITIALIZED;NEURAL_NETWORK_ACTIVE;WELCOME_TO_THE_MATRIX;ENTER_DHRUV_PATEL_16120.exe" alt="Cyberpunk Typing" />
   
-  <!-- 3D Animated Profile Banner -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvpatel16120&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="Trophy Stats" />
-  
+  <!-- 3D Model Viewer -->
+    <div align="center">
+      <model-viewer src="https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Models/2.0/Duck/glTF-Binary/Duck.glb"
+                    alt="3D Model"
+                    auto-rotate
+                    camera-controls
+                    ar
+                    style="width: 600px; height: 400px;">
+      </model-viewer>
+    </div>
+
+    <!-- Load model-viewer script -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
   <!-- Fallback Trophy Display -->
   <p align="center">
     <img src="https://img.shields.io/badge/GitHub%20Profile%20Trophy-🏆%20Loading...-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Trophy Loading"/>
