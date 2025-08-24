@@ -1,30 +1,11 @@
 <div align="center">
-  <!-- Cyberpunk Header with Glowing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFFF&width=600&height=80&lines=SYSTEM_INITIALIZED;NEURAL_NETWORK_ACTIVE;WELCOME_TO_THE_MATRIX;ENTER_DHRUV_PATEL_16120.exe" alt="Cyberpunk Typing" />
-  
-  <!-- 3D Model Viewer -->
-    <div align="center">
-      <model-viewer src="https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Models/2.0/Duck/glTF-Binary/Duck.glb"
-                    alt="3D Model"
-                    auto-rotate
-                    camera-controls
-                    ar
-                    style="width: 600px; height: 400px;">
-      </model-viewer>
-    </div>
-
-    <!-- Load model-viewer script -->
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-  <!-- Fallback Trophy Display -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/GitHub%20Profile%20Trophy-🏆%20Loading...-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Trophy Loading"/>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=200&size=37&pause=1000&center=true&vCenter=true&width=720&height=200&lines=Welcome+To+My+CodeSpace+!....+;Hello%2C+I+am+Dhruv+Patel+%F0%9F%91%8B%F0%9F%8F%BB!....;I+am+Full+Stack+Web+Developer+%F0%9F%8C%90;Aspiring+AI+%26+Data+Science+Expert;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Explore+My+Projects+Here+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+!....." alt="Typing SVG" />
+ <br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlaXF1emhxdTc3bzRueDJoYXlmN2prazYzZG5mZzJ5MGpqaTRkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KouuVwfTuArOWeerLM/giphy.gif" width="100%" />
 </div>
 
----
-
 <!-- Cyberpunk Navigation Bar -->
+## 💫 Explore My Profile
 <p align="center">
   <a href="#about">🔮 ABOUT</a> • 
   <a href="#tech">⚡ TECH STACK</a> • 
@@ -36,7 +17,7 @@
 
 <!-- About Section with Sci-Fi Styling -->
 <a name="about"></a>
-## 🔮 ABOUT_ME.exe
+## 🔮 ABOUT_ME 
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl0H6/giphy.gif" width="400" alt="Matrix Code"/>
@@ -55,15 +36,13 @@
   <img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/>
 </p>
 
----
-
-## 🌟 
+## 🌟 My Strengths :-
 
 <table align="center">
   <tr>
     <!-- First GIF + Soft Skills -->
     <td align="center" width="33%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="250" alt="Teamwork GIF"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="300" alt="Teamwork GIF"/>
       <br/><br/>
       <h3><strong>⌨ Software Development</strong></h3> 
       <ul align="left">
@@ -73,8 +52,9 @@
       </ul>
       <br></br>
     </td> 
-     <td align="center" width="34%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk5ZjFycnQ0OW90MGg2NHVuZnZjcmFwaTgzeXkxYW1lOXpqanE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" width="250" alt="Teamwork GIF"/>
+     <td align="center" width="33%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ1MHRsY3Rjd2ZkOWpwOWthcGxoOHRrZnlmY2Judzk4b2hpZnJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" width="300" alt="Teamwork GIF"/>
+       <br/><br/>
       <h3><strong>🧠 Problem Solving</strong></h3> 
       <ul align="left">
          <li>Analytical and critical thinking</li>
@@ -85,7 +65,7 @@
      <td align="center" width="33%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMmsxNG1nd3Z3OTdiZGRyaXk4eDI1bWk5cXNvaHRyYWV4N2s2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" width="250" alt="Teamwork GIF"/>
       <br/><br/>
-      <h3><strong>⌨ Software Development</strong></h3> 
+      <h3><strong>🤝 Collaboration & Teamwork</strong></h3> 
       <ul align="left">
         <li>Active listening & clear communication</li>
         <li>Thriving in group projects</li>
