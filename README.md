@@ -111,7 +111,7 @@
 ---
 
 <a name="techstack"></a>
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
   <em>Here’s a structured view of my technologies, tools & frameworks 🛠️</em>
