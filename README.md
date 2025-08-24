@@ -127,22 +127,17 @@
 <!-- Contact Section with Sci-Fi Elements -->
 <a name="contact"></a>
 ## 🌐 ESTABLISH_CONNECTION.port
+<div align="center">
 
-<!-- Social Media Links with Hover Effects -->
-<p align="center">
-  <a href="https://linkedin.com/in/dhruvpatel16120" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/dhruv_patel_16120" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/dhruvpatel16120" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:dhruvpatel16120@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+| Platform   | Link | Icon |
+|------------|------|------|
+| GitHub     | [github.com/dhruvpatel16120](https://github.com/dhruvpatel16120) | <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30"/> |
+| LinkedIn   | [linkedin.com/in/dhruvpatel16120](https://www.linkedin.com/in/dhruvpatel16120/) | <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30"/> |
+| Instagram  | [instagram.com/dhruv_patel_16120](https://instagram.com/dhruv_patel_16120) | <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30"/> |
+| Portfolio  | [dhruvpatelofficial.vercel.app](https://dhruvpatelofficial.vercel.app/) | <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30"/> |
+| Gmail      | [dhruvpatel16120@gmail.com](mailto:dhruvpatel16120@gmail.com) | <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30"/> |
+
+</div>
 
 <!-- Profile Views Counter -->
 <p align="center">
