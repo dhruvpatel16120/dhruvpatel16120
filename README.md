@@ -56,7 +56,7 @@
 - 🎯 Mission: *"Blend creativity with logic to craft digital wonders."*  
 
 ### 🔥 Core Highlights
-- ⌨️ 5+ years coding experience  
+- ⌨️ 2+ years coding experience  
 - 🎨 Loves **UI/UX & 3D Web Design**  
 - 🤝 Believes in **teamwork, mentorship & collaboration**  
 - 🌐 Contributing to **open-source projects**  
@@ -109,34 +109,49 @@
 </table>
 
 ---
+<a name="techstack"></a>
+## ⚡ Tech Stack
 
-<a name="tech"></a>
-#​ ⚡ Tech Stack:-
-
-###  Frontend Arsenal  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css&theme=dark" alt="Frontend stack" />
+  <em>Here’s a structured view of my technologies, tools & frameworks 🛠️</em>
 </p>
 
-###  Backend Engines  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,firebase&theme=dark" alt="Backend stack" />
-</p>
+<table align="center" cellspacing="30" cellpadding="20">
+  <tr>
+    <!-- Frontend -->
+    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3);">
+      <h3 style="color:#00FFFF;">🎨 Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" height="45" />
+      </p>
+    </td>
+    <!-- Backend -->
+    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3);">
+      <h3 style="color:#FF00FF;">⚙️ Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,firebase" height="45" />
+      </p>
+    </td>
+  </tr>
 
-###  AI & ML  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,streamlit,openai&theme=dark" alt="AI/ML stack" />
-</p>
+  <tr>
+    <!-- Databases -->
+    <td align="center" width="45%" style="border:2px solid #39FF14; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(57,255,20,0.3);">
+      <h3 style="color:#39FF14;">🗄️ Databases</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" height="45" />
+      </p>
+    </td>
+    <!-- Workspace Tools -->
+    <td align="center" width="45%" style="border:2px solid #FFD700; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,215,0,0.3);">
+      <h3 style="color:#FFD700;">🛠️ Workspace Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" height="45" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-###  Databases & Vaults  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark" alt="Databases" />
-</p>
-
-###  Dev Tools  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,linux&theme=dark" alt="Tools" />
-</p>
 
 ---
 
