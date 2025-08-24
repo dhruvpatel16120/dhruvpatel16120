@@ -6,7 +6,6 @@
 
 ---
 
-<!-- Cyberpunk Navigation Bar -->
 ## 💫 Explore My Profile
 <br>
 <p align="center">
@@ -20,9 +19,8 @@
 
 ---
 
-<!-- About Section with Sci-Fi Styling -->
 <a name="about"></a>
-## 🔮 ABOUT_ME 
+# 🔮 ABOUT_ME 
 
 <div align="center">
   <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" width="400" alt="Matrix Code"/>
@@ -71,7 +69,7 @@
 </table>
 </div>
 
-## 🌟 My Strengths :-
+# 🌟 My Strengths :-
 
 <table align="center">
   <tr>
@@ -111,8 +109,9 @@
 </table>
 
 ---
+
 <a name="tech"></a>
-## ​ My Tech Arsenal
+#​ ⚡ Tech Stack:-
 
 ###  Frontend Arsenal  
 <p align="center">
@@ -139,8 +138,77 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,linux&theme=dark" alt="Tools" />
 </p>
 
+---
 
-<!-- Statistics Section with Animated Cards -->
+<a name="projects"></a>
+# 🏆 Top Projects
+
+<p align="center">
+  <em>Here are some of my highlighted projects that blend creativity, code, and innovation ✨</em>
+</p>
+
+<table align="center" cellspacing="30" cellpadding="20">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=react" width="70" alt="logo"/>
+      <h3 style="color:#00FFFF;">🌐 Portfolio Website</h3>
+      <p>My personal developer portfolio built with <b>Next.js, TailwindCSS, and Framer Motion</b>. Showcases my skills, projects, and journey.</p>
+      <a href="https://dhruvpatelofficial.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/portfolio" target="_blank">💻 <b>Code</b></a>
+    </td>
+    <!-- Project 2 -->
+    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=django" width="70" alt="logo"/>
+      <h3 style="color:#FF00FF;">🔥 Gas Agency System</h3>
+      <p>A full-stack system for gas booking, payments & user dashboards. Built with <b>Next.js, Django & PostgreSQL</b>.</p>
+      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/gas-agency-system" target="_blank">💻 <b>Code</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Project 3 -->
+    <td align="center" width="45%" style="border:2px solid #39FF14; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(57,255,20,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=threejs" width="70" alt="logo"/>
+      <h3 style="color:#39FF14;">🎨 3D Portfolio Experience</h3>
+      <p>A futuristic 3D website using <b>Three.js & React Three Fiber</b>. Interactive models & animations for immersive experiences.</p>
+      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+    </td>
+    <!-- Project 4 -->
+    <td align="center" width="45%" style="border:2px solid #FFD700; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,215,0,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=python" width="70" alt="logo"/>
+      <h3 style="color:#FFD700;">🤖 AI Chat Assistant</h3>
+      <p>Custom-trained chatbot using <b>OpenAI API, LangChain & Streamlit</b>. Designed for real-time Q/A and personal assistance.</p>
+      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Project 5 -->
+    <td align="center" width="45%" style="border:2px solid #00CED1; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,206,209,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=flutter" width="70" alt="logo"/>
+      <h3 style="color:#00CED1;">📱 Fitness Tracker App</h3>
+      <p>Mobile app with <b>Flutter & Firebase</b> to track workouts, diet, and progress. Includes analytics dashboards.</p>
+      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+    </td>
+    <!-- Project 6 -->
+    <td align="center" width="45%" style="border:2px solid #FF4500; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,69,0,0.3); transition:0.3s;">
+      <img src="https://skillicons.dev/icons?i=ml" width="70" alt="logo"/>
+      <h3 style="color:#FF4500;">📊 Stock Predictor</h3>
+      <p>An <b>AI-powered stock market predictor</b> using LSTMs & Python. Forecasts trends with data visualization dashboards.</p>
+      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+    </td>
+  </tr>
+</table>
+
+
+
+---
 <a name="stats"></a>
 ## 📊 PERFORMANCE_METRICS
 
