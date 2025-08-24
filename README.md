@@ -57,59 +57,77 @@
 
 ---
 
-<!-- Technology Stack with 3D Icons -->
-<a name="tech"></a>
-## ⚡ TECH_ARSENAL.sys
+## 🌟 
 
-### 🎨 FRONTEND WEAPONS
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### ⚙️ BACKEND ENGINES
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### 🤖 AI/ML NEURAL NETWORKS
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-### 🗄️ DATA VAULTS
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🛠️ DEVELOPMENT TOOLS
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor-00FF00?style=for-the-badge&logo=cursor&logoColor=black" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<table align="center">
+  <tr>
+    <!-- First GIF + Soft Skills -->
+    <td align="center" width="33%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="250" alt="Teamwork GIF"/>
+      <br/><br/>
+      <h3><strong>⌨ Software Development</strong></h3> 
+      <ul align="left">
+         <li>Idea to Source Code</li>
+         <li>Debugging & optimization</li>
+         <li>Version control (e.g., Git)</li>
+      </ul>
+      <br></br>
+    </td> 
+     <td align="center" width="34%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk5ZjFycnQ0OW90MGg2NHVuZnZjcmFwaTgzeXkxYW1lOXpqanE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" width="250" alt="Teamwork GIF"/>
+      <h3><strong>🧠 Problem Solving</strong></h3> 
+      <ul align="left">
+         <li>Analytical and critical thinking</li>
+        <li>Breaking down complex issues</li>
+        <li>Creative solution generation</li>
+      </ul>
+    </td>
+     <td align="center" width="33%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMmsxNG1nd3Z3OTdiZGRyaXk4eDI1bWk5cXNvaHRyYWV4N2s2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" width="250" alt="Teamwork GIF"/>
+      <br/><br/>
+      <h3><strong>⌨ Software Development</strong></h3> 
+      <ul align="left">
+        <li>Active listening & clear communication</li>
+        <li>Thriving in group projects</li>
+        <li>Helping peers grow together</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+<a name="tech"></a>
+## ​ My Tech Arsenal
+
+###  Frontend Arsenal  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css&theme=dark" alt="Frontend stack" />
+</p>
+
+###  Backend Engines  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,firebase&theme=dark" alt="Backend stack" />
+</p>
+
+###  AI & ML  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,streamlit,openai&theme=dark" alt="AI/ML stack" />
+</p>
+
+###  Databases & Vaults  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark" alt="Databases" />
+</p>
+
+###  Dev Tools  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,linux&theme=dark" alt="Tools" />
+</p>
+
 
 <!-- Statistics Section with Animated Cards -->
 <a name="stats"></a>
-## 📊 PERFORMANCE_METRICS.dat
+## 📊 PERFORMANCE_METRICS
 
 <p align="center">
 
@@ -126,34 +144,66 @@
 
 <!-- Contact Section with Sci-Fi Elements -->
 <a name="contact"></a>
-## 🌐 ESTABLISH_CONNECTION.port
+## 🌐 ESTABLISH_CONNECTION WITH ME
 <div align="center">
 
-| Platform   | Link | Icon |
-|------------|------|------|
-| GitHub     | [github.com/dhruvpatel16120](https://github.com/dhruvpatel16120) | <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30"/> |
-| LinkedIn   | [linkedin.com/in/dhruvpatel16120](https://www.linkedin.com/in/dhruvpatel16120/) | <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30"/> |
-| Instagram  | [instagram.com/dhruv_patel_16120](https://instagram.com/dhruv_patel_16120) | <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30"/> |
-| Portfolio  | [dhruvpatelofficial.vercel.app](https://dhruvpatelofficial.vercel.app/) | <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30"/> |
-| Gmail      | [dhruvpatel16120@gmail.com](mailto:dhruvpatel16120@gmail.com) | <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30"/> |
+<table cellspacing="70">
+  <tr>
+    <td align="center" width="220px" style="border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
+      <a href="https://github.com/dhruvpatel16120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55"/><br/>
+        <b>GitHub</b><br/>
+        github.com/dhruvpatel16120
+      </a>
+    </td>
+    <td align="center" width="220px" style="border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
+      <a href="https://www.linkedin.com/in/dhruvpatel16120/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="55" height="55"/><br/>
+        <b>LinkedIn</b><br/>
+        linkedin.com/in/dhruvpatel16120
+      </a>
+    </td>
+    <td align="center" width="220px" style="border:1px solid #ddd; padding:55px; border-radius:12px; background:#f9f9f9;">
+      <a href="https://instagram.com/dhruv_patel_16120">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/><br/>
+        <b>Instagram</b><br/>
+        instagram.com/dhruv_patel_16120
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="440px" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
+      <a href="https://dhruvpatelofficial.vercel.app/">
+        <img src="https://dhruvpatelofficial.vercel.app/logo2.png" width="60" height="60"/><br/>
+        <b>Portfolio</b><br/>
+        dhruvpatelofficial.vercel.app
+      </a>
+    </td>
+    <td align="center" width="220px" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
+      <a href="mailto:dhruvpatel16120@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" height="60"/><br/>
+        <b>Gmail</b><br/>
+        dhruvpatel16120@gmail.com
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvpatel16120&label=PROFILE%20VISITS&color=00FFFF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
-</p>
 
 ---
 
 <!-- Footer with Matrix Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Matrix"/>
+  <br/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpxcGtpZ3N5dnpkZW85MGh4bHc2MWt4eGI3dTdwbnJhYWV2bGhxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Matrix"/>
 </p>
 
 <p align="center">
-  <strong>🌌 "In a world of ones and zeros, I create digital magic" 🌌</strong><br/>
-  <em>Thanks for visiting my cyber corner! Keep coding, keep exploring! 🚀</em>
+  <strong>⚡ "Every line of code is a step closer to the future" ⚡</strong><br/>
+  <em>Dive into my projects, explore my repositories, and be part of this digital journey.<br/>
+  Innovation starts here → <a href="https://github.com/dhruvpatel16120?tab=repositories"><b>Check out my work</b></a></em>
 </p>
 
 <!-- Animated Footer Badge -->
