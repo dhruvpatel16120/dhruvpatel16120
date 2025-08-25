@@ -407,7 +407,7 @@
     <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
       <img src="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/logo.png" width="70" alt="AI Bot Logo"/>
       <h3 style="color:#00FFFF;">🤖 Nexa AI Bot</h3>
-      <p>An AI-powered chatbot built with <b>Python & FastAPI</b>, integrating modern NLP models for automation and interactive conversations.</p>
+      <p>An AI-powered chatbot built with <b>Python & Streamlit</b>, integrating modern Langchain models for automation and interactive conversations.</p>
       <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/login.png" target="_blank">🔗 <b>Preview</b></a> • 
       <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot" target="_blank">💻 <b>Code</b></a>
       <br><br>
@@ -425,24 +425,22 @@
 
   <tr>
     <!-- Project 3 -->
-    <td align="center" width="45%" style="border:2px solid #39FF14; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(57,255,20,0.3); transition:0.3s;"><br>
-      <img src="https://skillicons.dev/icons?i=threejs" width="70" alt="logo"/>
-      <h3 style="color:#39FF14;">🎨 3D Portfolio Experience</h3>
-      <p>A futuristic 3D website using <b>Three.js & React Three Fiber</b>. Interactive models & animations for immersive experiences.</p>
-      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="#" target="_blank">💻 <b>Code</b></a>
-      <br>
-      <br>
+    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/clinic-management-system/blob/main/preview/logo2.png" width="70" alt="Clinic Management System Logo"/>
+      <h3 style="color:#00FFFF;">🩺 Clinic Management System</h3>
+      <p>Secure, modern clinic management built with <b>React, Firebase & Tailwind CSS</b>. Supports patient records, appointments, prescriptions, billing, and role-based access control.</p>
+      <a href="https://life-clinic-management-system.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/clinic-management-system" target="_blank">💻 <b>Code</b></a>
+      <br><br>
     </td>
     <!-- Project 4 -->
-    <td align="center" width="45%" style="border:2px solid #FFD700; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,215,0,0.3); transition:0.3s;"><br>
-      <img src="https://skillicons.dev/icons?i=python" width="70" alt="logo"/>
-      <h3 style="color:#FFD700;">🤖 AI Chat Assistant</h3>
-      <p>Custom-trained chatbot using <b>OpenAI API, LangChain & Streamlit</b>. Designed for real-time Q/A and personal assistance.</p>
-      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="#" target="_blank">💻 <b>Code</b></a>
-      <br>
-       <br>
+    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/blog-website/blob/main/preview/logo.png" width="70" alt="Blog Website Logo"/>
+      <h3 style="color:#FF00FF;">✍ TechBlog • Blog Website</h3>
+      <p>A modern, feature-rich blog platform for developers and content creators, built with cutting-edge technologies and clean UX.</p>
+      <a href="https://techblog-website.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/blog-website" target="_blank">💻 <b>Code</b></a>
+      <br><br>
     </td>
   </tr>
 
