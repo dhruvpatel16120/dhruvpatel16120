@@ -324,18 +324,37 @@
       <p>Lightweight & powerful code editor by Microsoft.</p><br>
     </td>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://cursor.sh/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="60"/>
+      <a href="https://cursor.com/" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="60"/>
         <h3>Cursor AI IDE</h3>
       </a>
       <p>AI-powered IDE built on VS Code.</p><br>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://chatgpt.com/" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" width="60"/>
+        <h3>ChatGPT</h3>
+      </a>
+      <p>Improve performance with LLMs like GPT-4O.</p>
+    </td>
+    <td align="center" width="33%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+  <br>
+  <a href="https://ai.google/" target="_blank">
+    <img src="https://static.cdnlogo.com/logos/g/3/google-ai.svg" width="60" alt="Google AI Logo"/>
+    <h3>Google AI</h3>
+  </a>
+  <p>Innovator behind Gemini, AI Studio, multimodal tools.</p>
+  <br>
+</td>
+  </tr>
 
   <tr>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.vmware.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linux" width="60"/>
+        <img src="https://static.cdnlogo.com/logos/v/68/vmware.svg" width="60"/>
         <h3>VMware</h3>
       </a>
       <p>Virtualization platform for running OS instances.</p><br>
@@ -392,6 +411,7 @@
       <a href="https://dhruvpatelofficial.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
       <a href="https://github.com/dhruvpatel16120/portfolio" target="_blank">💻 <b>Code</b></a>
       <br>
+      <br>
     </td>
     <!-- Project 2 -->
     <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
@@ -399,7 +419,9 @@
       <h3 style="color:#FF00FF;">🔥 Gas Agency System</h3>
       <p>A full-stack system for gas booking, payments & user dashboards. Built with <b>Next.js, Django & PostgreSQL</b>.</p>
       <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="https://github.com/dhruvpatel16120/gas-agency-system" target="_blank">💻 <b>Code</b></a><br>
+      <a href="https://github.com/dhruvpatel16120/gas-agency-system" target="_blank">💻 <b>Code</b></a>
+      <br>
+      <br>
     </td>
   </tr>
 
@@ -410,7 +432,9 @@
       <h3 style="color:#39FF14;">🎨 3D Portfolio Experience</h3>
       <p>A futuristic 3D website using <b>Three.js & React Three Fiber</b>. Interactive models & animations for immersive experiences.</p>
       <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="#" target="_blank">💻 <b>Code</b></a><br>
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+      <br>
+      <br>
     </td>
     <!-- Project 4 -->
     <td align="center" width="45%" style="border:2px solid #FFD700; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,215,0,0.3); transition:0.3s;"><br>
@@ -418,7 +442,9 @@
       <h3 style="color:#FFD700;">🤖 AI Chat Assistant</h3>
       <p>Custom-trained chatbot using <b>OpenAI API, LangChain & Streamlit</b>. Designed for real-time Q/A and personal assistance.</p>
       <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="#" target="_blank">💻 <b>Code</b></a><br>
+      <a href="#" target="_blank">💻 <b>Code</b></a>
+      <br>
+       <br>
     </td>
   </tr>
 
@@ -430,6 +456,8 @@
       <p>Mobile app with <b>Flutter & Firebase</b> to track workouts, diet, and progress. Includes analytics dashboards.</p>
       <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
       <a href="#" target="_blank">💻 <b>Code</b></a>
+      <br>
+      <br>
     </td>
     <!-- Project 6 -->
     <td align="center" width="45%" style="border:2px solid #FF4500; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,69,0,0.3); transition:0.3s;"><br>
@@ -438,6 +466,8 @@
       <p>An <b>AI-powered stock market predictor</b> using LSTMs & Python. Forecasts trends with data visualization dashboards.</p>
       <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
       <a href="#" target="_blank">💻 <b>Code</b></a><br>
+      <br>
+      <br>
     </td>
   </tr>
 </table>
