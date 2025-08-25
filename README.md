@@ -403,25 +403,23 @@
 
 <table align="center" cellspacing="30" cellpadding="20">
   <tr>
-    <!-- Project 1 -->
+     <!-- Project 1: Nexa AI Bot -->
     <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
-      <img src="https://skillicons.dev/icons?i=react" width="70" alt="logo"/>
-      <h3 style="color:#00FFFF;">🌐 Portfolio Website</h3>
-      <p>My personal developer portfolio built with <b>Next.js, TailwindCSS, and Framer Motion</b>. Showcases my skills, projects, and journey.</p>
-      <a href="https://dhruvpatelofficial.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="https://github.com/dhruvpatel16120/portfolio" target="_blank">💻 <b>Code</b></a>
-      <br>
-      <br>
+      <img src="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/logo.png" width="70" alt="AI Bot Logo"/>
+      <h3 style="color:#00FFFF;">🤖 Nexa AI Bot</h3>
+      <p>An AI-powered chatbot built with <b>Python & FastAPI</b>, integrating modern NLP models for automation and interactive conversations.</p>
+      <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/login.png" target="_blank">🔗 <b>Preview</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot" target="_blank">💻 <b>Code</b></a>
+      <br><br>
     </td>
-    <!-- Project 2 -->
+    <!-- Project 2: Gas Agency System -->
     <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
-      <img src="https://skillicons.dev/icons?i=django" width="70" alt="logo"/>
+      <img src="https://github.com/dhruvpatel16120/Gas-Agency-System/blob/main/preview/logo.png" width="70" alt="Gas Agency System Logo"/>
       <h3 style="color:#FF00FF;">🔥 Gas Agency System</h3>
-      <p>A full-stack system for gas booking, payments & user dashboards. Built with <b>Next.js, Django & PostgreSQL</b>.</p>
-      <a href="#" target="_blank">🔗 <b>Live Demo</b></a> • 
-      <a href="https://github.com/dhruvpatel16120/gas-agency-system" target="_blank">💻 <b>Code</b></a>
-      <br>
-      <br>
+      <p>A complete web system for gas booking, billing, and customer management. Built with <b>Next.js, Tailwind CSS & PostgreSQL</b>.</p>
+      <a href="https://agani-gas-agency-system.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
+      <a href="https://github.com/dhruvpatel16120/Gas-Agency-System" target="_blank">💻 <b>Code</b></a>
+      <br><br>
     </td>
   </tr>
 
