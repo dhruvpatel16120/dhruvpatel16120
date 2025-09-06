@@ -457,7 +457,7 @@
 
   <!-- Project 6: Cricket Score Prediction -->
   <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
-    <img src="https://github.com/dhruvpatel16120/Cricket-Score-Prediction-System/blob/main/preview/logo.png" width="70" alt="Cricket Prediction Logo"/>
+    <img src="https://img.icons8.com/?size=100&id=yudTcliRSdGW&format=png&color=000000" width="70" alt="Cricket Prediction Logo"/>
     <h3 style="color:#FF00FF;">🏏 Cricket Score Prediction</h3>
     <p>Machine Learning based <b>Cricket Score Prediction System</b>. Uses historical data and ML models to forecast match outcomes and score probabilities.</p>
     <a href="https://github.com/dhruvpatel16120/Cricket-Score-Prediction-System" target="_blank">💻 <b>Code</b></a>
