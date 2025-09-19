@@ -477,8 +477,8 @@
 
 | **Metric** | **Value** |
 |------------|-----------|
+| 🔥 **GitHub Profile** | ![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvpatel16120&theme=transparent)
 | 🚀 **GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvpatel16120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF) | 
-| 🔥 **Streak Stats** | [![GitHub Streak](https://streak-stats.demolab.com?user=dhruvpatel16120&theme=solarized-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=519)](https://git.io/streak-stats)
 | 📈 **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel16120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8) | 
 | 📊 **Contribution Graph** | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvpatel16120&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FF6B6B) |
 
