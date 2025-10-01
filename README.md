@@ -408,7 +408,7 @@
       <img src="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/logo.png" width="70" alt="AI Bot Logo"/>
       <h3 style="color:#00FFFF;">🤖 Nexa AI Bot</h3>
       <p>An AI-powered chatbot built with <b>Python & Streamlit</b>, integrating modern Langchain models for automation and interactive conversations.</p>
-      <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/login.png" target="_blank">🔗 <b>Preview</b></a> • 
+      <a href="https://nexa-ai-bot.onrender.com/" target="_blank">🔗 <b>Preview</b></a> • 
       <a href="https://github.com/dhruvpatel16120/Nexa-AI-bot" target="_blank">💻 <b>Code</b></a>
       <br><br>
     </td>
