@@ -159,33 +159,6 @@
       <p>Popular CSS framework with prebuilt responsive components.</p><br>
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" width="60"/>
-        <h3>JavaScript</h3>
-      </a>
-      <p>Core programming language of the web.</p><br>
-    </td>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" width="60"/>
-        <h3>CSS</h3>
-      </a>
-      <p>Styling language for modern web pages.</p><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" width="60"/>
-        <h3>HTML</h3>
-      </a>
-      <p>Standard markup language for the web.</p><br>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -223,15 +196,6 @@
         <h3>Python</h3>
       </a>
       <p>General-purpose programming language powering backend & AI.</p><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-        <h3>Node.js</h3>
-      </a>
-      <p>JavaScript runtime for scalable backend development.</p><br>
     </td>
   </tr>
 </table>
@@ -281,39 +245,7 @@
     </td>
   </tr>
 
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linux" width="60"/>
-        <h3>Linux</h3>
-      </a>
-      <p>Open-source operating system for developers & servers.</p><br>
-    </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://endeavouros.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" width="60"/>
-        <h3>EndeavourOS</h3>
-      </a>
-      <p>Arch-based Linux distro with simplicity & power.</p><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://github.com/hyprwm/Hyprland" target="_blank">
-        <img src="https://raw.githubusercontent.com/HyDE-Project/HyDE/refs/heads/master/Source/assets/hyprdots_logo.png" width="60"/>
-        <h3>Hyprland + Hyde </h3>
-      </a>
-      <p>Dynamic tiling Wayland compositor (dotfiles project).</p><br>
-    </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.microsoft.com/windows" target="_blank">
-        <img src="https://skillicons.dev/icons?i=windows" width="60"/>
-        <h3>Windows 11</h3>
-      </a>
-      <p>Microsoft’s latest OS for productivity & development.</p><br>
-    </td>
-  </tr>
+  
 
   <tr>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
@@ -351,22 +283,6 @@
 </td>
   </tr>
 
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.vmware.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/v/68/vmware.svg" width="60"/>
-        <h3>VMware</h3>
-      </a>
-      <p>Virtualization platform for running OS instances.</p><br>
-    </td>
-    <td align="center" width="50%" stye=border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://brave.com/" target="_blank">
-        <img src="https://img.icons8.com/color/480/brave-web-browser.png" width="60"/>
-        <h3>Brave Browser</h3>
-      </a>
-      <p>Privacy-focused browser with built-in ad-blocker.</p><br>
-    </td>
-  </tr>
 </table>
 
 ---
