@@ -50,14 +50,15 @@
     <td width="60%" style="padding:20px;">
 
 ### ⚡ Who Am I?
-- 🚀 A **Full-Stack Developer** passionate about **React, Next.js, Django, and AI**.  
-- 🧠 Exploring **Machine Learning, Neural Networks, and Data Science**.  
-- 🌍 Building **3D futuristic websites** with Three.js & WebGL.  
-- 🎯 Mission: *"Blend creativity with logic to craft digital wonders."*  
+- 🎓 A **CSE student** specializing in **AI & Data Science**, building skills in model design, data engineering, and experiments to solve real world problems.  
+- 🤖 Focused purely on **AI / Data Science** — model development, training pipelines, evaluation, and deployment.  
+- 🔬 Exploring **Deep Learning, Neural Networks, and applied ML** for real-world problems and research.  
+- 💻 I believe in collaboration and actively contribute to **open-source projects** and community collaboration.  
+- 🎯 Mission: *"Build intelligent systems that turn data into meaningful impact."*  
 
 ### 🔥 Core Highlights
-- ⌨️ 2+ years coding experience  
-- 🎨 Loves **UI/UX & 3D Web Design**  
+- ⌨️ Strong Programming fundamentals
+- 🎨 Loves **AI research and exploration**  
 - 🤝 Believes in **teamwork, mentorship & collaboration**  
 - 🌐 Contributing to **open-source projects**  
 
@@ -69,7 +70,7 @@
 </table>
 </div>
 
-# 🌟 My Strengths :-
+# 🌟 I Believe in :-
 
 <table align="center">
   <tr>
