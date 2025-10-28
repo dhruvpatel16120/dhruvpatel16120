@@ -23,7 +23,7 @@
 # 🔮 ABOUT ME 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" width="400" alt="Matrix Code"/>
+  <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" style="width:100%; max-width:400px; height:auto;" alt="Matrix Code"/>
 </div>
 
 <div align="center">
@@ -33,11 +33,11 @@
 
 ---
 
-<table>
+<table style="width:100%; max-width:1200px; margin:auto;">
   <tr>
     <!-- Left Side (GIF / Avatar) -->
-    <td width="40%" align="center">
-      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Guy"/>
+    <td style="width:40%; min-width:250px;" align="center">
+      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; max-width:300px; height:auto;" alt="Coding Guy"/>
       <br/><br/>
       <ui>   
       <li><img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" /></li>
@@ -47,7 +47,7 @@
       </ui>
     </td>
     <!-- Right Side (Details) -->
-    <td width="60%" style="padding:20px;">
+    <td style="width:60%; min-width:300px; padding:20px;">
 
 ### ⚡ Who Am I?
 - 🎓 A **CSE student** specializing in **AI & Data Science**, building skills in model design, data engineering, and experiments to solve real world problems.  
@@ -72,10 +72,10 @@
 
 # 🌟 I Believe in :-
 
-<table align="center">
+<table align="center" style="width:100%; max-width:1400px;">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="300" alt="Teamwork GIF"/>
+    <td align="center" style="width:33%; min-width:280px; padding:10px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" style="width:100%; max-width:300px; height:auto;" alt="Teamwork GIF"/>
       <br/><br/>
       <h3><strong>⌨ Software Development</strong></h3> 
       <ul align="left">
@@ -85,8 +85,8 @@
       </ul>
       <br></br>
     </td> 
-     <td align="center" width="33%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ1MHRsY3Rjd2ZkOWpwOWthcGxoOHRrZnlmY2Judzk4b2hpZnJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" width="300" alt="Teamwork GIF"/>
+     <td align="center" style="width:33%; min-width:280px; padding:10px;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ1MHRsY3Rjd2ZkOWpwOWthcGxoOHRrZnlmY2Judzk4b2hpZnJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" style="width:100%; max-width:300px; height:auto;" alt="Teamwork GIF"/>
        <br/><br/>
       <h3><strong>🧠 Problem Solving</strong></h3> 
       <ul align="left">
@@ -95,8 +95,8 @@
         <li>Creative solution generation</li>
       </ul>
     </td>
-     <td align="center" width="33%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMmsxNG1nd3Z3OTdiZGRyaXk4eDI1bWk5cXNvaHRyYWV4N2s2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" width="250" alt="Teamwork GIF"/>
+     <td align="center" style="width:33%; min-width:280px; padding:10px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMmsxNG1nd3Z3OTdiZGRyaXk4eDI1bWk5cXNvaHRyYWV4N2s2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" style="width:100%; max-width:250px; height:auto;" alt="Teamwork GIF"/>
       <br/><br/>
       <h3><strong>🤝 Collaboration & Teamwork</strong></h3> 
       <ul align="left">
@@ -121,21 +121,21 @@
 
 ### 📊 Data Science Core
 
-<table width="100%" cellspacing="20">
+<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
       <br>
       <a href="https://numpy.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width:60px; height:auto;"/>
         <h3>NumPy</h3>
       </a>
       <p>Fundamental package for numerical computing in Python.</p>
       <br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
       <br>
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="width:60px; height:auto;"/>
         <h3>Pandas</h3>
       </a>
       <p>Data manipulation and analysis library for structured data.</p>
@@ -144,16 +144,16 @@
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="width:60px; height:auto;"/>
         <h3>Matplotlib</h3>
       </a>
       <p>Comprehensive library for creating static & interactive visualizations.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="width:60px; height:auto;"/>
         <h3>Seaborn</h3>
       </a>
       <p>Statistical data visualization built on top of Matplotlib.</p><br>
@@ -165,34 +165,34 @@
 
 ### 🤖 Machine Learning & Deep Learning
 
-<table width="100%" cellspacing="20">
+<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="width:60px; height:auto;"/>
         <h3>Scikit-Learn</h3>
       </a>
       <p>Machine learning library for classification, regression & clustering.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+        <img src="https://skillicons.dev/icons?i=tensorflow" style="width:60px; height:auto;"/>
         <h3>TensorFlow</h3>
       </a>
       <p>End-to-end platform for building and deploying ML models.</p><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://pytorch.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
+        <img src="https://skillicons.dev/icons?i=pytorch" style="width:60px; height:auto;"/>
         <h3>PyTorch</h3>
       </a>
       <p>Deep learning framework for research and production.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://keras.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" style="width:60px; height:auto;"/>
         <h3>Keras</h3>
       </a>
       <p>High-level neural networks API for fast experimentation.</p><br>
@@ -204,34 +204,34 @@
 
 ### 🗄️ Data Storage & Processing
 
-<table width="100%" cellspacing="20">
+<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+        <img src="https://skillicons.dev/icons?i=mysql" style="width:60px; height:auto;"/>
         <h3>MySQL</h3>
       </a>
       <p>Popular relational database for structured data storage.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" style="width:60px; height:auto;"/>
         <h3>MongoDB</h3>
       </a>
       <p>NoSQL database for handling unstructured data.</p><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="60"/>
+        <img src="https://skillicons.dev/icons?i=sqlite" style="width:60px; height:auto;"/>
         <h3>SQLite</h3>
       </a>
       <p>Lightweight database perfect for learning and prototyping.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" width="60"/>
+        <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:auto;"/>
         <h3>Python</h3>
       </a>
       <p>Primary programming language for data science & ML.</p><br>
@@ -243,18 +243,18 @@
 
 ### 🛠️ Development & Learning Tools
 
-<table width="100%" cellspacing="20">
+<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://jupyter.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="width:60px; height:auto;"/>
         <h3>Jupyter Notebook</h3>
       </a>
       <p>Interactive environment for data analysis and visualization.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" style="width:60px; height:auto;"/>
         <h3>Google Colab</h3>
       </a>
       <p>Free cloud-based Jupyter notebooks with GPU support.</p><br>
@@ -262,16 +262,16 @@
   </tr>
 
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.kaggle.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f4/20240209024102%21Kaggle_Logo.svg" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f4/20240209024102%21Kaggle_Logo.svg" style="width:60px; height:auto;"/>
         <h3>Kaggle</h3>
       </a>
       <p>Platform for data science competitions and datasets.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+        <img src="https://skillicons.dev/icons?i=vscode" style="width:60px; height:auto;"/>
         <h3>VS Code</h3>
       </a>
       <p>Powerful code editor with Python & data science extensions.</p><br>
@@ -279,17 +279,17 @@
   </tr>
   
   <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" width="60"/>
+        <img src="https://skillicons.dev/icons?i=git" style="width:60px; height:auto;"/>
         <h3>Git</h3>
       </a>
       <p>Version control for tracking code and collaboration.</p>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
   <br>
   <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60"/>
+    <img src="https://skillicons.dev/icons?i=github" style="width:60px; height:auto;"/>
     <h3>GitHub</h3>
   </a>
   <p>Code hosting and portfolio showcase platform.</p>
@@ -303,34 +303,34 @@
 
 ### 🚀 ML Deployment & Cloud
 
-<table width="100%" cellspacing="20">
+<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://streamlit.io/" target="_blank">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60"/>
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="width:60px; height:auto;"/>
         <h3>Streamlit</h3>
       </a>
       <p>Build and deploy ML apps with simple Python scripts.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://huggingface.co/" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="width:60px; height:auto;"/>
         <h3>Hugging Face</h3>
       </a>
       <p>Platform for sharing and deploying ML models.</p><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" width="60"/>
+        <img src="https://skillicons.dev/icons?i=docker" style="width:60px; height:auto;"/>
         <h3>Docker</h3>
       </a>
       <p>Containerization for reproducible ML environments.</p><br>
     </td>
-    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=flask" width="60"/>
+        <img src="https://skillicons.dev/icons?i=flask" style="width:60px; height:auto;"/>
         <h3>Flask</h3>
       </a>
       <p>Lightweight framework for building ML APIs.</p><br>
@@ -347,11 +347,11 @@
   <em>Here are some of my highlighted projects that blend creativity, code, and innovation ✨</em>
 </p>
 
-<table align="center" cellspacing="30" cellpadding="20">
+<table align="center" style="width:100%; max-width:1200px;" cellspacing="30" cellpadding="20">
   <tr>
      <!-- Project 1: Nexa AI Bot -->
-    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
-      <img src="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/logo.png" width="70" alt="AI Bot Logo"/>
+    <td align="center" style="width:45%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/Nexa-AI-bot/blob/main/preview/logo.png" style="width:70px; height:auto;" alt="AI Bot Logo"/>
       <h3 style="color:#00FFFF;">🤖 Nexa AI Bot</h3>
       <p>An AI-powered chatbot built with <b>Python & Streamlit</b>, integrating modern Langchain models for automation and interactive conversations.</p>
       <a href="https://nexa-ai-bot.onrender.com/" target="_blank">🔗 <b>Preview</b></a> • 
@@ -359,8 +359,8 @@
       <br><br>
     </td>
     <!-- Project 2: Gas Agency System -->
-    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
-      <img src="https://github.com/dhruvpatel16120/Gas-Agency-System/blob/main/preview/logo.png" width="70" alt="Gas Agency System Logo"/>
+    <td align="center" style="width:45%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0px 0px 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/Gas-Agency-System/blob/main/preview/logo.png" style="width:70px; height:auto;" alt="Gas Agency System Logo"/>
       <h3 style="color:#FF00FF;">🔥 Gas Agency System</h3>
       <p>A complete web system for gas booking, billing, and customer management. Built with <b>Next.js, Tailwind CSS & PostgreSQL</b>.</p>
       <a href="https://agani-gas-agency-system.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
@@ -371,8 +371,8 @@
 
   <tr>
     <!-- Project 3 -->
-    <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
-      <img src="https://github.com/dhruvpatel16120/clinic-management-system/blob/main/preview/logo2.png" width="70" alt="Clinic Management System Logo"/>
+    <td align="center" style="width:45%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/clinic-management-system/blob/main/preview/logo2.png" style="width:70px; height:auto;" alt="Clinic Management System Logo"/>
       <h3 style="color:#00FFFF;">🩺 Clinic Management System</h3>
       <p>Secure, modern clinic management built with <b>React, Firebase & Tailwind CSS</b>. Supports patient records, appointments, prescriptions, billing, and role-based access control.</p>
       <a href="https://life-clinic-management-system.vercel.app" target="_blank">🔗 <b>Live Demo</b></a> • 
@@ -380,8 +380,8 @@
       <br><br>
     </td>
     <!-- Project 4 -->
-    <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
-      <img src="https://github.com/dhruvpatel16120/blog-website/blob/main/preview/logo.png" width="70" alt="Blog Website Logo"/>
+    <td align="center" style="width:45%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
+      <img src="https://github.com/dhruvpatel16120/blog-website/blob/main/preview/logo.png" style="width:70px; height:auto;" alt="Blog Website Logo"/>
       <h3 style="color:#FF00FF;">✍ TechBlog • Blog Website</h3>
       <p>A modern, feature-rich blog platform for developers and content creators, built with cutting-edge technologies and clean UX.</p>
       <a href="https://techblog-website.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • 
@@ -392,8 +392,8 @@
 
  <tr>
   <!-- Project 5: Portfolio Django -->
-  <td align="center" width="45%" style="border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
-    <img src="https://github.com/dhruvpatel16120/Portfolio-django/blob/main/static/logo.png" width="70" alt="Portfolio Django Logo"/>
+  <td align="center" style="width:45%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(0,255,255,0.3); transition:0.3s;"><br>
+    <img src="https://github.com/dhruvpatel16120/Portfolio-django/blob/main/static/logo.png" style="width:70px; height:auto;" alt="Portfolio Django Logo"/>
     <h3 style="color:#00FFFF;">🌐 Portfolio - Django</h3>
     <p>A sleek, responsive <b>Django-powered portfolio</b> website showcasing projects, skills, and contact info. Built with SEO in mind and deployed on Vercel.</p>
     <a href="https://django-portfolio-live.vercel.app/" target="_blank">🔗 <b>Live Demo</b></a> • 
@@ -402,8 +402,8 @@
   </td>
 
   <!-- Project 6: Cricket Score Prediction -->
-  <td align="center" width="45%" style="border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
-    <img src="https://img.icons8.com/?size=100&id=yudTcliRSdGW&format=png&color=000000" width="70" alt="Cricket Prediction Logo"/>
+  <td align="center" style="width:45%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:25px; background:#0d1117; box-shadow:0 0 20px rgba(255,0,255,0.3); transition:0.3s;"><br>
+    <img src="https://img.icons8.com/?size=100&id=yudTcliRSdGW&format=png&color=000000" style="width:70px; height:auto;" alt="Cricket Prediction Logo"/>
     <h3 style="color:#FF00FF;">🏏 Cricket Score Prediction</h3>
     <p>Machine Learning based <b>Cricket Score Prediction System</b>. Uses historical data and ML models to forecast match outcomes and score probabilities.</p>
     <a href="https://github.com/dhruvpatel16120/Cricket-Score-Prediction-System" target="_blank">💻 <b>Code</b></a>
@@ -437,41 +437,41 @@
 ## 🌐 ESTABLISH_CONNECTION WITH ME
 <div align="center">
 
-<table cellspacing="70">
+<table style="width:100%; max-width:900px; margin:auto;" cellspacing="20">
   <tr>
-    <td align="center" width="220px" style="border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
       <a href="https://github.com/dhruvpatel16120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:55px; height:55px;"/><br/>
         <b>GitHub</b><br/>
         github.com/dhruvpatel16120
       </a>
     </td>
-    <td align="center" width="220px" style="border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
       <a href="https://www.linkedin.com/in/dhruvpatel16120/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="55" height="55"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width:55px; height:55px;"/><br/>
         <b>LinkedIn</b><br/>
         linkedin.com/in/dhruvpatel16120
       </a>
     </td>
-    <td align="center" width="220px" style="border:1px solid #ddd; padding:55px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
       <a href="https://instagram.com/dhruv_patel_16120">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/><br/>
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" style="width:55px; height:55px;"/><br/>
         <b>Instagram</b><br/>
         instagram.com/dhruv_patel_16120
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" width="440px" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" colspan="2" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
       <a href="https://dhruvpatelofficial.vercel.app/">
-        <img src="https://dhruvpatelofficial.vercel.app/logo2.png" width="60" height="60"/><br/>
+        <img src="https://dhruvpatelofficial.vercel.app/logo2.png" style="width:60px; height:60px;"/><br/>
         <b>Portfolio</b><br/>
         dhruvpatelofficial.vercel.app
       </a>
     </td>
-    <td align="center" width="220px" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
       <a href="mailto:dhruvpatel16120@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" height="60"/><br/>
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" style="width:60px; height:60px;"/><br/>
         <b>Gmail</b><br/>
         dhruvpatel16120@gmail.com
       </a>
@@ -487,7 +487,7 @@
 <!-- Footer with Matrix Effect -->
 <p align="center">
   <br/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpxcGtpZ3N5dnpkZW85MGh4bHc2MWt4eGI3dTdwbnJhYWV2bGhxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Matrix"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpxcGtpZ3N5dnpkZW85MGh4bHc2MWt4eGI3dTdwbnJhYWV2bGhxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" style="width:100%; max-width:400px; height:auto;" alt="Matrix"/>
 </p>
 
 <p align="center">
