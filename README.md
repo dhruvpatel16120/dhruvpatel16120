@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=200&size=37&pause=1000&center=true&vCenter=true&width=720&height=200&lines=Welcome+To+My+CodeSpace+!....+;Hello%2C+I+am+Dhruv+Patel+%F0%9F%91%8B%F0%9F%8F%BB!....;I+am+Full+Stack+Web+Developer+%F0%9F%8C%90;Aspiring+AI+%26+Data+Science+Expert;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Explore+My+Projects+Here+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+!....." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C715F7&center=true&width=575&lines=Welcome+To+My+CodeSpace+!....;Hello+%2CI+am+Dhruv+Patel%F0%9F%91%8B%F0%9F%8F%BB+;I+am+CSE+Student+And+Explorer;Check+Out+My+Work+Here+!..." alt="Typing SVG" /></a>
  <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlaXF1emhxdTc3bzRueDJoYXlmN2prazYzZG5mZzJ5MGpqaTRkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KouuVwfTuArOWeerLM/giphy.gif" width="100%" />
 </div>
@@ -29,7 +29,7 @@
 <div align="center">
 
 ### 👋 Hello, I'm <span style="color:#00FFFF;">Dhruv Patel</span>  
-💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🚀 Innovator  
+💻 CSE student • 🤖 AI/ML Explorer • 🚀 Innovator  
 
 ---
 
@@ -42,7 +42,7 @@
       <ui>   
       <li><img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" /></li>
       <li><img src="https://img.shields.io/badge/Location-India-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Level-99%20Hacker-blue?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></li>
+      <li><img src="https://img.shields.io/badge/Level-Explorer-blue?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></li>
       <li><img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/></li>
       </ui>
     </td>
