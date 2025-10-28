@@ -20,54 +20,95 @@
 ---
 
 <a name="about"></a>
-# 🔮 ABOUT_ME 
+# 🔮 ABOUT ME 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" width="400" alt="Matrix Code"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" alt="AI Data Science"/>
 </div>
 
+<br>
+
 <div align="center">
 
-### 👋 Hello, I'm <span style="color:#00FFFF;">Dhruv Patel</span>  
-💻 CSE student • 🤖 AI/ML Explorer • 🚀 Innovator  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Insights;Building+Intelligent+Systems;Exploring+AI+%26+Deep+Learning" alt="Typing SVG" />
 
----
+</div>
 
-<table>
-  <tr>
-    <!-- Left Side (GIF / Avatar) -->
-    <td width="40%" align="center">
-      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Guy"/>
-      <br/><br/>
-      <ui>   
-      <li><img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" /></li>
-      <li><img src="https://img.shields.io/badge/Location-India-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Level-Explorer-blue?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></li>
-      <li><img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/></li>
-      </ui>
-    </td>
-    <!-- Right Side (Details) -->
-    <td width="60%" style="padding:20px;">
-
-### ⚡ Who Am I?
-- 🎓 A **CSE student** specializing in **AI & Data Science**, building skills in model design, data engineering, and experiments to solve real world problems.  
-- 🤖 Focused purely on **AI / Data Science** — model development, training pipelines, evaluation, and deployment.  
-- 🔬 Exploring **Deep Learning, Neural Networks, and applied ML** for real-world problems and research.  
-- 💻 I believe in collaboration and actively contribute to **open-source projects** and community collaboration.  
-- 🎯 Mission: *"Build intelligent systems that turn data into meaningful impact."*  
-
-### 🔥 Core Highlights
-- ⌨️ Strong Programming fundamentals
-- 🎨 Loves **AI research and exploration**  
-- 🤝 Believes in **teamwork, mentorship & collaboration**  
-- 🌐 Contributing to **open-source projects**  
-
-### 📌 Motto  
-> *“Every line of code is a step closer to the future.”*
 <br>
+
+<table align="center">
+  <tr>
+    <!-- Left Side - Animated Profile -->
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Data Science Animation"/>
+      <br/><br/>
+      
+### 🎯 **CURRENT STATUS**
+      
+<img src="https://img.shields.io/badge/🔥_Status-Learning_&_Building-00ff00?style=for-the-badge&labelColor=0d1117&color=00ff00" />
+<img src="https://img.shields.io/badge/📍_Location-India-FF00FF?style=for-the-badge&labelColor=0d1117&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓_Role-Data_Scientist-00ffff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💡_Focus-AI_&_ML-FFD700?style=for-the-badge&labelColor=0d1117" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvpatel16120&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFD700&currStreakLabel=00FFFF" width="380"/>
+
+    </td>
+    
+    <!-- Right Side - About Details -->
+    <td width="55%" valign="top">
+
+### 🚀 **WHO AM I?**
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Dhruv Patel"
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "India 🇮🇳"
+        self.education = "CSE - AI & Data Science"
+        
+    def skills(self):
+        return {
+            "languages": ["Python", "SQL", "R"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib"],
+            "specialization": ["Deep Learning", "NLP", "Computer Vision"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🧠 Building ML models that solve real problems",
+            "📊 Exploring data patterns & insights",
+            "🤖 Experimenting with Neural Networks",
+            "🌐 Contributing to open-source AI projects"
+        ]
+    
+    def motto(self):
+        return "Transform data into intelligence, one model at a time! 🚀"
+```
+
+### 💎 **CORE STRENGTHS**
+
+🎯 **Data Analysis** → Extracting insights from complex datasets  
+🤖 **Machine Learning** → Building predictive models & algorithms  
+🧠 **Deep Learning** → Neural networks & advanced AI systems  
+📈 **Visualization** → Creating compelling data stories  
+🔬 **Research** → Staying updated with latest AI trends  
+🤝 **Collaboration** → Open-source contributions & teamwork  
+
+### ⚡ **MISSION**
+> *"Building intelligent systems that transform data into meaningful impact and drive innovation."*
+
    </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 # 🌟 I Believe in :-
@@ -264,7 +305,7 @@
   <tr>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.kaggle.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kaggle" width="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f4/20240209024102%21Kaggle_Logo.svg" width="60"/>
         <h3>Kaggle</h3>
       </a>
       <p>Platform for data science competitions and datasets.</p><br>
