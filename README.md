@@ -74,7 +74,6 @@
 
 <table align="center">
   <tr>
-    <!-- First GIF + Soft Skills -->
     <td align="center" width="33%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="300" alt="Teamwork GIF"/>
       <br/><br/>
@@ -120,166 +119,180 @@
 
 ---
 
-### 🎨 Frontend
+### 📊 Data Science Core
 
 <table width="100%" cellspacing="20">
   <tr>
     <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
       <br>
-      <a href="https://react.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" width="60"/>
-        <h3>React.js</h3>
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+        <h3>NumPy</h3>
       </a>
-      <p>JavaScript library for building fast & interactive UIs.</p>
+      <p>Fundamental package for numerical computing in Python.</p>
       <br>
     </td>
     <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
       <br>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" width="60"/>
-        <h3>TypeScript</h3>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+        <h3>Pandas</h3>
       </a>
-      <p>Strongly typed JavaScript for scalable applications.</p>
+      <p>Data manipulation and analysis library for structured data.</p>
       <br>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
-        <h3>Tailwind CSS</h3>
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/>
+        <h3>Matplotlib</h3>
       </a>
-      <p>Utility-first CSS framework for modern responsive UIs.</p><br>
+      <p>Comprehensive library for creating static & interactive visualizations.</p><br>
     </td>
     <td align="center" width="50%" style="border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
-        <h3>Bootstrap</h3>
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
+        <h3>Seaborn</h3>
       </a>
-      <p>Popular CSS framework with prebuilt responsive components.</p><br>
+      <p>Statistical data visualization built on top of Matplotlib.</p><br>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ Backend
+### 🤖 Machine Learning & Deep Learning
 
 <table width="100%" cellspacing="20">
   <tr>
     <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" width="60"/>
-        <h3>Firebase</h3>
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+        <h3>Scikit-Learn</h3>
       </a>
-      <p>Backend-as-a-service for authentication, DB, hosting & more.</p><br>
+      <p>Machine learning library for classification, regression & clustering.</p><br>
     </td>
     <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=django" width="60"/>
-        <h3>Django</h3>
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+        <h3>TensorFlow</h3>
       </a>
-      <p>Python framework for scalable & secure web applications.</p><br>
+      <p>End-to-end platform for building and deploying ML models.</p><br>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://nextjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
-        <h3>Next.js</h3>
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
+        <h3>PyTorch</h3>
       </a>
-      <p>React framework for server-side rendering & fullstack apps.</p><br>
+      <p>Deep learning framework for research and production.</p><br>
     </td>
     <td align="center" width="50%" style="border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" width="60"/>
-        <h3>Python</h3>
+      <a href="https://keras.io/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60"/>
+        <h3>Keras</h3>
       </a>
-      <p>General-purpose programming language powering backend & AI.</p><br>
+      <p>High-level neural networks API for fast experimentation.</p><br>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Data Storage & Processing
 
 <table width="100%" cellspacing="20">
   <tr>
     <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="60"/>
-        <h3>PostgreSQL</h3>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+        <h3>MySQL</h3>
       </a>
-      <p>Advanced relational database with open-source power.</p><br>
+      <p>Popular relational database for structured data storage.</p><br>
     </td>
+    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+        <h3>MongoDB</h3>
+      </a>
+      <p>NoSQL database for handling unstructured data.</p><br>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://www.sqlite.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=sqlite" width="60"/>
         <h3>SQLite</h3>
       </a>
-      <p>Lightweight database embedded into applications.</p><br>
+      <p>Lightweight database perfect for learning and prototyping.</p><br>
+    </td>
+    <td align="center" width="50%" style="border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" width="60"/>
+        <h3>Python</h3>
+      </a>
+      <p>Primary programming language for data science & ML.</p><br>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Workspace Tools
+### 🛠️ Development & Learning Tools
 
 <table width="100%" cellspacing="20">
+  <tr>
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60"/>
+        <h3>Jupyter Notebook</h3>
+      </a>
+      <p>Interactive environment for data analysis and visualization.</p><br>
+    </td>
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://colab.research.google.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60"/>
+        <h3>Google Colab</h3>
+      </a>
+      <p>Free cloud-based Jupyter notebooks with GPU support.</p><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://www.kaggle.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kaggle" width="60"/>
+        <h3>Kaggle</h3>
+      </a>
+      <p>Platform for data science competitions and datasets.</p><br>
+    </td>
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+        <h3>VS Code</h3>
+      </a>
+      <p>Powerful code editor with Python & data science extensions.</p><br>
+    </td>
+  </tr>
+  
   <tr>
     <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" width="60"/>
         <h3>Git</h3>
       </a>
-      <p>Version control system for tracking code changes.</p><br>
+      <p>Version control for tracking code and collaboration.</p>
     </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="60"/>
-        <h3>GitHub</h3>
-      </a>
-      <p>Code hosting, collaboration & CI/CD platform.</p><br>
-    </td>
-  </tr>
-
-  
-
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-        <h3>VS Code</h3>
-      </a>
-      <p>Lightweight & powerful code editor by Microsoft.</p><br>
-    </td>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://cursor.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="60"/>
-        <h3>Cursor AI IDE</h3>
-      </a>
-      <p>AI-powered IDE built on VS Code.</p><br>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://chatgpt.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/c/52/chatgpt.svg" width="60"/>
-        <h3>ChatGPT</h3>
-      </a>
-      <p>Improve performance with LLMs like GPT-4O.</p>
-    </td>
-    <td align="center" width="33%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
+    <td align="center" width="50%" style="border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
   <br>
-  <a href="https://ai.google/" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/g/3/google-ai.svg" width="60" alt="Google AI Logo"/>
-    <h3>Google AI</h3>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60"/>
+    <h3>GitHub</h3>
   </a>
-  <p>Innovator behind Gemini, AI Studio, multimodal tools.</p>
+  <p>Code hosting and portfolio showcase platform.</p>
   <br>
 </td>
   </tr>
@@ -288,23 +301,39 @@
 
 ---
 
-### 🚀 Deployment
+### 🚀 ML Deployment & Cloud
 
 <table width="100%" cellspacing="20">
   <tr>
     <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://vercel.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="60"/>
-        <h3>Vercel</h3>
+      <a href="https://streamlit.io/" target="_blank">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60"/>
+        <h3>Streamlit</h3>
       </a>
-      <p>Cloud platform for frontend frameworks & static sites.</p><br>
+      <p>Build and deploy ML apps with simple Python scripts.</p><br>
     </td>
     <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.netlify.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=netlify" width="60"/>
-        <h3>Netlify</h3>
+      <a href="https://huggingface.co/" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60"/>
+        <h3>Hugging Face</h3>
       </a>
-      <p>Deploy modern websites with serverless functions.</p><br>
+      <p>Platform for sharing and deploying ML models.</p><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" width="60"/>
+        <h3>Docker</h3>
+      </a>
+      <p>Containerization for reproducible ML environments.</p><br>
+    </td>
+    <td align="center" width="50%" style="border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=flask" width="60"/>
+        <h3>Flask</h3>
+      </a>
+      <p>Lightweight framework for building ML APIs.</p><br>
     </td>
   </tr>
 </table>
