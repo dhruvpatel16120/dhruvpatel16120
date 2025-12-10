@@ -10,9 +10,8 @@
 <br>
 <p align="center">
   <a href="#about">🔮 ABOUT</a> • 
-  <a href="#tech">⚡ TECH STACK</a> • 
+  <a href="#techstack">⚡ TECH STACK</a> • 
   <a href="#projects">🏗️ Top Projects </a> •
-  <a href="#stats">📊 STATS</a> • 
   <a href="#contact">🌐 CONNECT</a>
 </p>
 <br>
@@ -413,23 +412,6 @@
 
 </table>
 
-
-
----
-<a name="stats"></a>
-## 📊 PERFORMANCE_METRICS
-
-<p align="center">
-
-| **Metric** | **Value** |
-|------------|-----------|
-| 🔥 **GitHub Profile** | ![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvpatel16120&theme=transparent)
-| 🚀 **GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvpatel16120&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF) | 
-| 📈 **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel16120&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8) | 
-| 📊 **Contribution Graph** | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvpatel16120&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FF6B6B) |
-
-</p>
-
 ---
 
 <!-- Contact Section with Sci-Fi Elements -->
@@ -471,12 +453,7 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-
----
-
 <!-- Footer with Matrix Effect -->
 <p align="center">
   <br/>
