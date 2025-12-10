@@ -437,15 +437,8 @@
 ## 🌐 ESTABLISH_CONNECTION WITH ME
 <div align="center">
 
-<table style="width:100%; max-width:900px; margin:auto;" cellspacing="20">
+<table style="width:100%; max-width:900px; margin:auto;">
   <tr>
-    <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
-      <a href="https://github.com/dhruvpatel16120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:55px; height:55px;"/><br/>
-        <b>GitHub</b><br/>
-        github.com/dhruvpatel16120
-      </a>
-    </td>
     <td align="center" style="width:33%; min-width:200px; border:1px solid #ddd; padding:25px; border-radius:12px; background:#f9f9f9;">
       <a href="https://www.linkedin.com/in/dhruvpatel16120/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width:55px; height:55px;"/><br/>
@@ -462,7 +455,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
+    <td align="center" style="border:1px solid #ddd; padding:35px; border-radius:12px; background:#f9f9f9;">
       <a href="https://dhruvpatelofficial.vercel.app/">
         <img src="https://dhruvpatelofficial.vercel.app/logo2.png" style="width:60px; height:60px;"/><br/>
         <b>Portfolio</b><br/>
