@@ -108,238 +108,53 @@
 </table>
 
 ---
-
 <a name="techstack"></a>
 # ⚡ Tech Stack
 
-<p align="center">
-  <em>Here’s a structured view of my technologies, tools & frameworks 🛠️</em>
+A concise overview of the tools and platforms I use for data science, machine learning, and AI development.
+
+
+## 🧠 Programming & Data Analysis
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+</p>
+
+## 🤖 Machine Learning
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+</p>
+
+## ⚙️ ML APIs & Applications
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48"/>
+</p>
+
+## 🧪 Notebooks & Experimentation
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
+</p>
+
+## 🤝 Platforms & Collaboration
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/>
+</p>
+
+## 🧠 Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 </p>
 
 ---
 
-### 📊 Data Science Core
-
-<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
-      <br>
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width:60px; height:auto;"/>
-        <h3>NumPy</h3>
-      </a>
-      <p>Fundamental package for numerical computing in Python.</p>
-      <br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;">
-      <br>
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="width:60px; height:auto;"/>
-        <h3>Pandas</h3>
-      </a>
-      <p>Data manipulation and analysis library for structured data.</p>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="width:60px; height:auto;"/>
-        <h3>Matplotlib</h3>
-      </a>
-      <p>Comprehensive library for creating static & interactive visualizations.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="width:60px; height:auto;"/>
-        <h3>Seaborn</h3>
-      </a>
-      <p>Statistical data visualization built on top of Matplotlib.</p><br>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🤖 Machine Learning & Deep Learning
-
-<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="width:60px; height:auto;"/>
-        <h3>Scikit-Learn</h3>
-      </a>
-      <p>Machine learning library for classification, regression & clustering.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tensorflow" style="width:60px; height:auto;"/>
-        <h3>TensorFlow</h3>
-      </a>
-      <p>End-to-end platform for building and deploying ML models.</p><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://pytorch.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=pytorch" style="width:60px; height:auto;"/>
-        <h3>PyTorch</h3>
-      </a>
-      <p>Deep learning framework for research and production.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://keras.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" style="width:60px; height:auto;"/>
-        <h3>Keras</h3>
-      </a>
-      <p>High-level neural networks API for fast experimentation.</p><br>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🗄️ Data Storage & Processing
-
-<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" style="width:60px; height:auto;"/>
-        <h3>MySQL</h3>
-      </a>
-      <p>Popular relational database for structured data storage.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" style="width:60px; height:auto;"/>
-        <h3>MongoDB</h3>
-      </a>
-      <p>NoSQL database for handling unstructured data.</p><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=sqlite" style="width:60px; height:auto;"/>
-        <h3>SQLite</h3>
-      </a>
-      <p>Lightweight database perfect for learning and prototyping.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #39FF14; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" style="width:60px; height:auto;"/>
-        <h3>Python</h3>
-      </a>
-      <p>Primary programming language for data science & ML.</p><br>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Development & Learning Tools
-
-<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://jupyter.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="width:60px; height:auto;"/>
-        <h3>Jupyter Notebook</h3>
-      </a>
-      <p>Interactive environment for data analysis and visualization.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" style="width:60px; height:auto;"/>
-        <h3>Google Colab</h3>
-      </a>
-      <p>Free cloud-based Jupyter notebooks with GPU support.</p><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.kaggle.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f4/20240209024102%21Kaggle_Logo.svg" style="width:60px; height:auto;"/>
-        <h3>Kaggle</h3>
-      </a>
-      <p>Platform for data science competitions and datasets.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" style="width:60px; height:auto;"/>
-        <h3>VS Code</h3>
-      </a>
-      <p>Powerful code editor with Python & data science extensions.</p><br>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" style="width:60px; height:auto;"/>
-        <h3>Git</h3>
-      </a>
-      <p>Version control for tracking code and collaboration.</p>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #FFD700; border-radius:16px; padding:20px; background:#0d1117;">
-  <br>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" style="width:60px; height:auto;"/>
-    <h3>GitHub</h3>
-  </a>
-  <p>Code hosting and portfolio showcase platform.</p>
-  <br>
-</td>
-  </tr>
-
-</table>
-
----
-
-### 🚀 ML Deployment & Cloud
-
-<table style="width:100%; max-width:1200px; margin:auto;" cellspacing="20">
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://streamlit.io/" target="_blank">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="width:60px; height:auto;"/>
-        <h3>Streamlit</h3>
-      </a>
-      <p>Build and deploy ML apps with simple Python scripts.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://huggingface.co/" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="width:60px; height:auto;"/>
-        <h3>Hugging Face</h3>
-      </a>
-      <p>Platform for sharing and deploying ML models.</p><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" style="width:60px; height:auto;"/>
-        <h3>Docker</h3>
-      </a>
-      <p>Containerization for reproducible ML environments.</p><br>
-    </td>
-    <td align="center" style="width:50%; min-width:280px; border:2px solid #00CED1; border-radius:16px; padding:20px; background:#0d1117;"><br>
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=flask" style="width:60px; height:auto;"/>
-        <h3>Flask</h3>
-      </a>
-      <p>Lightweight framework for building ML APIs.</p><br>
-    </td>
-  </tr>
-</table>
-
----
-
-<a name="projects"></a>
 # 🏆 Top Projects
 
 <p align="center">
