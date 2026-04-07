@@ -20,17 +20,10 @@
 
 <a name="about"></a>
 # 🔮 ABOUT ME 
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/22835178/file/original-fc9fa00046009fe6fb6f3283a33e07c8.gif" style="width:100%; max-width:400px; height:auto;" alt="Matrix Code"/>
-</div>
-
 <div align="center">
 
 ### 👋 Hello, I'm <span style="color:#00FFFF;">Dhruv Patel</span>  
 💻 CSE student • 🤖 AI/ML Explorer • 🚀 Innovator  
-
----
 
 <table style="width:100%; max-width:1200px; margin:auto;">
   <tr>
