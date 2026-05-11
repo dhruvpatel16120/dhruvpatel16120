@@ -1,7 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C715F7&center=true&width=575&lines=Welcome+To+My+CodeSpace+!....;Hello+%2CI+am+Dhruv+Patel%F0%9F%91%8B%F0%9F%8F%BB+;I+am+CSE+Student+And+Explorer;Check+Out+My+Work+Here+!..." alt="Typing SVG" /></a>
  <br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRlaXF1emhxdTc3bzRueDJoYXlmN2prazYzZG5mZzJ5MGpqaTRkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KouuVwfTuArOWeerLM/giphy.gif" width="100%" />
 </div>
 
 ---
