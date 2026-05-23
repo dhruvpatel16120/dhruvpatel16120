@@ -126,7 +126,7 @@ A concise overview of the tools and platforms I use for data science, machine le
 ---
 
 # 🏆 Top Projects
-
+<a name="projects"></a>
 <p align="center">
   <em>Here are some of my highlighted projects that blend creativity, code, and innovation ✨</em>
 </p>
