@@ -106,43 +106,21 @@
 A concise overview of the tools and platforms I use for data science, machine learning, and AI development.
 
 
-## 🧠 Programming & Data Analysis
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
-</p>
-
-## 🤖 Machine Learning
-<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-</p>
-
-## ⚙️ ML APIs & Applications
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48"/>
-</p>
-
-## 🧪 Notebooks & Experimentation
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
-</p>
-
-## 🤝 Platforms & Collaboration
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/>
-</p>
-
-## 🧠 Developer Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 </p>
 
 ---
