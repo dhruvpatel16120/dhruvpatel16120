@@ -1,7 +1,7 @@
 from PIL import Image, ImageEnhance
 import os
 
-def image_to_ascii(image_path, width=92, height=53, contrast_factor=1.6, brightness_factor=1.0):
+def image_to_ascii(image_path, width=100, height=53, contrast_factor=1.6, brightness_factor=1.0, invert=False):
     if not os.path.exists(image_path):
         print(f"Error: {image_path} does not exist.")
         return None
@@ -25,8 +25,9 @@ def image_to_ascii(image_path, width=92, height=53, contrast_factor=1.6, brightn
     img_resized = img_gray.resize((width, height), Image.Resampling.LANCZOS)
     
     # ASCII character mapping from dark (filled) to light (empty)
-    # Sushmita's characters: '%', '*', '+', '=', '-', ':', '.', ' '
     chars = ["%", "*", "+", "=", "-", ":", ".", " "]
+    if invert:
+        chars = chars[::-1]
     num_chars = len(chars)
     
     ascii_lines = []
@@ -65,26 +66,33 @@ if __name__ == "__main__":
     output_dir = os.path.join(base_dir, "dhruvpatel16120")
     txt_path = os.path.join(output_dir, "portrait.txt")
     tspan_path = os.path.join(output_dir, "portrait_tspan.txt")
+    tspan_dark_path = os.path.join(output_dir, "portrait_tspan_dark.txt")
     
     print(f"Processing image: {img_path}...")
     
     # Run conversion
-    # We can tune contrast_factor to make details look sharp and screen out background
-    ascii_lines = image_to_ascii(img_path, contrast_factor=1.75, brightness_factor=0.95)
+    ascii_lines_light = image_to_ascii(img_path, contrast_factor=1.75, brightness_factor=0.95, invert=False)
+    ascii_lines_dark = image_to_ascii(img_path, contrast_factor=1.75, brightness_factor=0.95, invert=True)
     
-    if ascii_lines:
+    if ascii_lines_light and ascii_lines_dark:
         # Write portrait.txt
         with open(txt_path, "w", encoding="utf-8") as f:
-            f.write("\n".join(ascii_lines))
+            f.write("\n".join(ascii_lines_light))
         print(f"Generated raw ASCII art in: {txt_path}")
         
         # Write portrait_tspan.txt
-        tspan_lines = generate_tspans(ascii_lines)
+        tspan_lines_light = generate_tspans(ascii_lines_light)
         with open(tspan_path, "w", encoding="utf-8") as f:
-            f.write("\n".join(tspan_lines))
+            f.write("\n".join(tspan_lines_light))
         print(f"Generated SVG tspan file in: {tspan_path}")
         
+        # Write portrait_tspan_dark.txt
+        tspan_lines_dark = generate_tspans(ascii_lines_dark)
+        with open(tspan_dark_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(tspan_lines_dark))
+        print(f"Generated SVG dark tspan file in: {tspan_dark_path}")
+        
         # Print a small preview to console
-        print("\nASCII Preview (first 10 lines):")
-        for line in ascii_lines[:15]:
+        print("\nASCII Preview (first 10 lines, light background style):")
+        for line in ascii_lines_light[:15]:
             print(line)

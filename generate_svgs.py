@@ -282,14 +282,17 @@ def generate_svg(ascii_tspans, theme="dark"):
 
 if __name__ == "__main__":
     work_dir = r"c:\Users\digit\OneDrive\Desktop\github profile\dhruvpatel16120"
-    tspan_file = os.path.join(work_dir, "portrait_tspan.txt")
+    tspan_light_file = os.path.join(work_dir, "portrait_tspan.txt")
+    tspan_dark_file = os.path.join(work_dir, "portrait_tspan_dark.txt")
     
-    print(f"Loading tspans from {tspan_file}...")
-    ascii_tspans = load_tspan(tspan_file)
+    print(f"Loading light tspans from {tspan_light_file}...")
+    ascii_tspans_light = load_tspan(tspan_light_file)
+    print(f"Loading dark tspans from {tspan_dark_file}...")
+    ascii_tspans_dark = load_tspan(tspan_dark_file)
     
     # Generate Dark SVG
     print("Generating dark.svg...")
-    dark_svg = generate_svg(ascii_tspans, theme="dark")
+    dark_svg = generate_svg(ascii_tspans_dark, theme="dark")
     dark_path = os.path.join(work_dir, "dark.svg")
     with open(dark_path, "w", encoding="utf-8") as f:
         f.write(dark_svg)
@@ -297,7 +300,7 @@ if __name__ == "__main__":
         
     # Generate Light SVG
     print("Generating light.svg...")
-    light_svg = generate_svg(ascii_tspans, theme="light")
+    light_svg = generate_svg(ascii_tspans_light, theme="light")
     light_path = os.path.join(work_dir, "light.svg")
     with open(light_path, "w", encoding="utf-8") as f:
         f.write(light_svg)
