@@ -1,8 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C715F7&center=true&width=575&lines=Welcome+To+My+CodeSpace+!....;Hello+%2CI+am+Dhruv+Patel%F0%9F%91%8B%F0%9F%8F%BB+;I+am+CSE+Student+And+Explorer;Check+Out+My+Work+Here+!..." alt="Typing SVG" /></a>
- <br>
 </div>
-
 <div align="center">
   <a href="https://dhru">
     <picture>
@@ -11,11 +9,7 @@
     </picture>  
   </a>
 </div>
-
-<br>
-
 ---
-
 <a name="about"></a>
 # 🔮 ABOUT ME 
 <div align="center">
