@@ -10,6 +10,7 @@
   </a>
 </div>
 ---
+
 <a name="about"></a>
 # 🔮 ABOUT ME 
 <div align="center">
