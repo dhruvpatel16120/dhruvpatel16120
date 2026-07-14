@@ -78,8 +78,8 @@ def generate_svg(ascii_tspans, theme="dark"):
     
     # Generate system info lines
     lines = [
-        # Line 0: Header
-        f'<tspan x="520" y="42" class="head">dhruvpatel16120@cybernet</tspan><tspan class="cc"> --————————————————————————————————————-</tspan>',
+        # Line 0: SYSTEM.DIAGNOSTICS moved under the heading
+        f'<tspan x="520" y="42" class="accent">[ SYSTEM.DIAGNOSTICS ]</tspan><tspan class="cc"> -————————————————————————————————————--</tspan>',
         # Line 1: Subject
         build_terminal_line("Subject", "Dhruv Patel", 66),
         # Line 2: Title
@@ -120,13 +120,17 @@ def generate_svg(ascii_tspans, theme="dark"):
         build_terminal_line("Comms.Terminal", "github.com/dhruvpatel16120", 462),
         # Line 20: Empty
         f'<tspan x="520" y="484" class="cc">. </tspan>',
-        # Line 21: Linus Torvalds developer quote
-        f'<tspan x="520" y="506" class="cc">" </tspan><tspan class="accent">Talk is cheap. Show me the code.</tspan><tspan class="cc"> " — Linus Torvalds</tspan>'
+        # Line 21: Projects Header
+        f'<tspan x="520" y="506" class="accent">[ RECENT.PROJECTS ]</tspan><tspan class="cc"> -————————————————————————————————————--</tspan>',
+        # Line 22: Project 1
+        build_terminal_line("Proj.Stocky", "AI Powered Stock Intelligence Platform", 528),
+        # Line 23: Project 2
+        build_terminal_line("Proj.LoanKnow", "AI Loan Risk Prediction System", 550)
     ]
     
     # Build lines with clip paths
     text_elements = []
-    y_coords = [42, 66, 88, 110, 132, 154, 176, 198, 220, 242, 264, 286, 308, 330, 352, 374, 396, 418, 440, 462, 484, 506]
+    y_coords = [42, 66, 88, 110, 132, 154, 176, 198, 220, 242, 264, 286, 308, 330, 352, 374, 396, 418, 440, 462, 484, 506, 528, 550]
     
     for idx, (coord, content) in enumerate(zip(y_coords, lines)):
         text_elements.append(
@@ -135,7 +139,15 @@ def generate_svg(ascii_tspans, theme="dark"):
         
     text_section = "".join(text_elements)
 
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="628" viewBox="0 0 1180 628">
+    clip_paths = []
+    for idx, y_val in enumerate(y_coords):
+        begin_time = 0.75 + idx * 0.115
+        clip_paths.append(
+            f'  <clipPath id="lc{idx}"><rect x="500" y="{y_val - 16:.2f}" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="{begin_time:.2f}s" fill="freeze"/></rect></clipPath>'
+        )
+    clip_paths_section = "\n".join(clip_paths)
+
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="668" viewBox="0 0 1180 668">
 <defs>
   <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="{ascii_grad_stop0}">
@@ -181,33 +193,12 @@ def generate_svg(ascii_tspans, theme="dark"):
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
-  <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="620">
+  <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="660">
     <rect x="0" y="0" width="1180" height="0" fill="#fff">
-      <animate attributeName="height" from="0" to="580" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="620" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </rect>
   </mask>
-  <clipPath id="lc0"><rect x="500" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc1"><rect x="500" y="50.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc2"><rect x="500" y="72.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.98s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc3"><rect x="500" y="94.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.09s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc4"><rect x="500" y="116.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.21s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc5"><rect x="500" y="138.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.32s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc6"><rect x="500" y="160.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.44s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc7"><rect x="500" y="182.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.55s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc8"><rect x="500" y="204.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.67s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc9"><rect x="500" y="226.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.78s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc10"><rect x="500" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc11"><rect x="500" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc12"><rect x="500" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc13"><rect x="500" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc14"><rect x="500" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc15"><rect x="500" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc16"><rect x="500" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc17"><rect x="500" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc18"><rect x="500" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc19"><rect x="500" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc20"><rect x="500" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath>
-  <clipPath id="lc21"><rect x="500" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
+{{clip_paths_section}}
   <style>
     .ascii  {{ font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: {ascii_fill}; letter-spacing: -0.2px; }}
     .key    {{ font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: {key_fill}; font-weight: bold; }}
