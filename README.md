@@ -9,51 +9,6 @@
     </picture>  
   </a>
 </div>
----
-
-<a name="about"></a>
-# 🔮 ABOUT ME 
-<div align="center">
-
-### 👋 Hello, I'm <span style="color:#00FFFF;">Dhruv Patel</span>  
-💻 CSE student • 🤖 AI/ML Explorer • 🚀 Innovator  
-
-<table style="width:100%; max-width:1200px; margin:auto;">
-  <tr>
-    <!-- Left Side (GIF / Avatar) -->
-    <td style="width:40%; min-width:250px;" align="center">
-      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; max-width:300px; height:auto;" alt="Coding Guy"/>
-      <br/><br/>
-      <ui style="list-style: none; padding: 0;">   
-        <li><img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=matrix&logoColor=00ff00" style="margin-bottom: 5px;" /></li>
-        <li><img src="https://img.shields.io/badge/Location-India-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" style="margin-bottom: 5px;" /></li>
-        <li><img src="https://img.shields.io/badge/Level-Explorer-blue?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;" alt="Level"/></li>
-        <li><img src="https://img.shields.io/badge/Matrix-Connected-00ffff?style=for-the-badge&logo=terminal&logoColor=black" alt="Matrix"/></li>
-      </ui>
-    </td>
-    <!-- Right Side (Details) -->
-    <td style="width:60%; min-width:300px; padding:20px;">
-
-### ⚡ Who Am I?
-- 🎓 A **CSE student** specializing in **AI & Data Science**, building skills in model design, data engineering, and experiments to solve real world problems.  
-- 🤖 Focused purely on **AI / Data Science** — model development, training pipelines, evaluation, and deployment.  
-- 🔬 Exploring **Deep Learning, Neural Networks, and applied ML** for real-world problems and research.  
-- 💻 I believe in collaboration and actively contribute to **open-source projects** and community collaboration.  
-- 🎯 Mission: *"Build intelligent systems that turn data into meaningful impact."*  
-
-### 🔥 Core Highlights
-- ⌨️ Strong Programming fundamentals
-- 🎨 Loves **AI research and exploration**  
-- 🤝 Believes in **teamwork, mentorship & collaboration**  
-- 🌐 Contributing to **open-source projects**  
-
-### 📌 Motto  
-> *“Every line of code is a step closer to the future.”*
-<br>
-   </td>
-  </tr>
-</table>
-</div>
 
 ---
 
@@ -102,7 +57,7 @@
   <table align="center" style="width:100%; max-width:900px; margin:auto;" cellspacing="15" cellpadding="0">
     <tr>
       <!-- LinkedIn Card -->
-      <td align="center" style="width:48%; border:2px solid #00FFFF; border-radius:16px; padding:20px; background:#0d1117; box-shadow:0px 0px 15px rgba(0,255,255,0.25); transition:0.3s;">
+      <td align="center">
         <a href="https://www.linkedin.com/in/dhruvpatel16120/" target="_blank" style="text-decoration: none;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width:45px; height:45px;"/><br/><br/>
           <strong style="color:#00FFFF; font-size:16px;">LinkedIn</strong><br/>
@@ -110,7 +65,7 @@
         </a>
       </td>
       <!-- Instagram Card -->
-      <td align="center" style="width:48%; border:2px solid #FF00FF; border-radius:16px; padding:20px; background:#0d1117; box-shadow:0px 0px 15px rgba(255,0,255,0.25); transition:0.3s;">
+      <td align="center">
         <a href="https://instagram.com/dhruv_patel_16120" target="_blank" style="text-decoration: none;">
           <img src="https://cdn.simpleicons.org/instagram/E4405F" style="width:45px; height:45px;"/><br/><br/>
           <strong style="color:#FF00FF; font-size:16px;">Instagram</strong><br/>
@@ -120,7 +75,7 @@
     </tr>
     <tr>
       <!-- Portfolio Card -->
-      <td align="center" style="width:48%; border:2px solid #FFE600; border-radius:16px; padding:20px; background:#0d1117; box-shadow:0px 0px 15px rgba(255,230,0,0.25); transition:0.3s;">
+      <td align="center">
         <a href="https://dhruvpatelofficial.vercel.app/" target="_blank" style="text-decoration: none;">
           <img src="https://dhruvpatelofficial.vercel.app/logo2.png" style="width:45px; height:45px;"/><br/><br/>
           <strong style="color:#FFE600; font-size:16px;">Portfolio</strong><br/>
@@ -128,7 +83,7 @@
         </a>
       </td>
       <!-- Gmail Card -->
-      <td align="center" style="width:48%; border:2px solid #34D399; border-radius:16px; padding:20px; background:#0d1117; box-shadow:0px 0px 15px rgba(52,211,153,0.25); transition:0.3s;">
+      <td align="center">
         <a href="mailto:dhruvpatel16120@gmail.com" target="_blank" style="text-decoration: none;">
           <img src="https://cdn.simpleicons.org/gmail/EA4335" style="width:45px; height:45px;"/><br/><br/>
           <strong style="color:#34D399; font-size:16px;">Gmail</strong><br/>
