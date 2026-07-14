@@ -19,7 +19,7 @@ def build_terminal_line(key, value, y_coord, total_dots_target=19):
     dots_count = max(total_dots_target - key_len, 2)
     dots = "." * dots_count
     
-    return f'<tspan x="520" y="{y_coord}" class="cc">. </tspan>{key_html}<tspan class="cc">: {dots} </tspan><tspan class="value">{value}</tspan>'
+    return f'<tspan x="532" y="{y_coord}" class="cc">. </tspan>{key_html}<tspan class="cc">: {dots} </tspan><tspan class="value">{value}</tspan>'
 
 def generate_svg(ascii_tspans, theme="dark"):
     is_dark = theme == "dark"
@@ -78,63 +78,64 @@ def generate_svg(ascii_tspans, theme="dark"):
     
     # Generate system info lines
     lines = [
-        # Line 0: SYSTEM.DIAGNOSTICS moved under the heading
-        f'<tspan x="520" y="42" class="accent">[ SYSTEM.DIAGNOSTICS ]</tspan><tspan class="cc"> -————————————————————————————————————--</tspan>',
+        f'<tspan x="532" y="40" class="accent">[ SESSION.INFO ]</tspan><tspan class="cc"> ─────────────────────────────────────</tspan>',
         # Line 1: Subject
-        build_terminal_line("Subject", "Dhruv Patel", 66),
+        build_terminal_line("Subject", "Dhruv Patel", 61),
         # Line 2: Title
-        build_terminal_line("Title", "Aspiring Data Scientist | AI Engineer", 88),
+        build_terminal_line("Title", "Aspiring Data Scientist | AI Engineer", 82),
         # Line 3: Node
-        build_terminal_line("Node", "Rajkot, Gujarat, India (GMT +5:30)", 110),
+        build_terminal_line("Node", "Rajkot, Gujarat, India (GMT +5:30)", 103),
         # Line 4: Class
-        build_terminal_line("Class", "B.E. AI &amp; Data Science (GECR)", 132),
+        build_terminal_line("Class", "B.E. AI &amp; Data Science (GECR)", 124),
         # Line 5: Status
-        build_terminal_line("Status", "GSSoC 2026 Open Source Contribution", 154),
+        build_terminal_line("Status", "GSSoC 2026 Open Source Contribution", 145),
         # Line 6: Net.Level
-        build_terminal_line("Net.Level", "Intermediate", 176),
+        build_terminal_line("Net.Level", "Intermediate", 166),
         # Line 7: Availability
-        build_terminal_line("Avail.", "Open to Work | Internship", 198),
+        build_terminal_line("Avail.", "Open to Work | Internship", 187),
         # Line 8: Empty (space after header section)
-        f'<tspan x="520" y="220" class="cc">. </tspan>',
+        f'<tspan x="532" y="208" class="cc">. </tspan>',
         # Line 9: Net.Languages
-        build_terminal_line("Net.Languages", "Python (Primary), SQL, JavaScript", 242),
+        build_terminal_line("Net.Languages", "Python (Primary), SQL, JavaScript", 229),
         # Line 10: Net.AI
-        build_terminal_line("Net.AI", "LangChain, RAG, Gemini API, Prompt Eng", 264),
+        build_terminal_line("Net.AI", "LangChain, RAG, Gemini API, Prompt Eng", 250),
         # Line 11: Net.DataScience
-        build_terminal_line("Net.DataScience", "NumPy, Pandas, Scikit-learn, Seaborn", 286),
+        build_terminal_line("Net.DataScience", "NumPy, Pandas, Scikit-learn, Seaborn", 271),
         # Line 12: Net.Stack
-        build_terminal_line("Net.Stack", "FastAPI, Next.js, Streamlit", 308),
+        build_terminal_line("Net.Stack", "FastAPI, Next.js, Streamlit", 292),
         # Line 13: Net.Databases
-        build_terminal_line("Net.Databases", "PostgreSQL, Firebase, MySQL", 330),
+        build_terminal_line("Net.Databases", "PostgreSQL, Firebase, MySQL", 313),
         # Line 14: Empty (space above connect.channels)
-        f'<tspan x="520" y="352" class="cc">. </tspan>',
+        f'<tspan x="532" y="334" class="cc">. </tspan>',
         # Line 15: Contact Header
-        f'<tspan x="520" y="374" class="accent">[ CONNECT.CHANNELS ]</tspan><tspan class="cc"> -————————————————————————————————————--</tspan>',
+        f'<tspan x="532" y="355" class="accent">[ CONNECT.CHANNELS ]</tspan><tspan class="cc"> ───────────────────────────────────</tspan>',
         # Line 16: Comms.Mail
-        build_terminal_line("Comms.Mail", "dhruvpatel16120@gmail.com", 396),
+        build_terminal_line("Comms.Mail", "dhruvpatel16120@gmail.com", 376),
         # Line 17: Comms.Web
-        build_terminal_line("Comms.Web", "dhruvpatelofficial.vercel.app", 418),
+        build_terminal_line("Comms.Web", "dhruvpatelofficial.vercel.app", 397),
         # Line 18: Comms.LinkedIn
-        build_terminal_line("Comms.LinkedIn", "linkedin.com/in/dhruvpatel16120", 440),
+        build_terminal_line("Comms.LinkedIn", "linkedin.com/in/dhruvpatel16120", 418),
         # Line 19: Comms.Terminal
-        build_terminal_line("Comms.Terminal", "github.com/dhruvpatel16120", 462),
+        build_terminal_line("Comms.Terminal", "github.com/dhruvpatel16120", 439),
         # Line 20: Empty
-        f'<tspan x="520" y="484" class="cc">. </tspan>',
+        f'<tspan x="532" y="460" class="cc">. </tspan>',
         # Line 21: Projects Header
-        f'<tspan x="520" y="506" class="accent">[ RECENT.PROJECTS ]</tspan><tspan class="cc"> -————————————————————————————————————--</tspan>',
+        f'<tspan x="532" y="481" class="accent">[ RECENT.PROJECTS ]</tspan><tspan class="cc"> ────────────────────────────────────</tspan>',
         # Line 22: Project 1
-        build_terminal_line("Proj.Stocky", "AI Powered Stock Intelligence Platform", 528),
+        build_terminal_line("Stocky", "AI Powered Stock Intelligence Platform", 502),
         # Line 23: Project 2
-        build_terminal_line("Proj.LoanKnow", "AI Loan Risk Prediction System", 550)
+        build_terminal_line("LoanKnow", "AI Loan Risk Prediction System", 523),
+        # Line 24: Prompt
+        f'<tspan x="532" y="544" class="cc">dhruvpatel16120@cyberdeck ~ % </tspan><tspan class="cursor-blink">█</tspan>'
     ]
     
     # Build lines with clip paths
     text_elements = []
-    y_coords = [42, 66, 88, 110, 132, 154, 176, 198, 220, 242, 264, 286, 308, 330, 352, 374, 396, 418, 440, 462, 484, 506, 528, 550]
+    y_coords = [40 + idx * 21 for idx in range(25)]
     
     for idx, (coord, content) in enumerate(zip(y_coords, lines)):
         text_elements.append(
-            f'<g clip-path="url(#lc{idx})"><text x="520" y="0" fill="{text_color_main}">{content}</text></g>'
+            f'<g clip-path="url(#lc{idx})"><text x="532" y="0" fill="{text_color_main}">{content}</text></g>'
         )
         
     text_section = "".join(text_elements)
@@ -143,7 +144,7 @@ def generate_svg(ascii_tspans, theme="dark"):
     for idx, y_val in enumerate(y_coords):
         begin_time = 0.75 + idx * 0.115
         clip_paths.append(
-            f'  <clipPath id="lc{idx}"><rect x="500" y="{y_val - 16:.2f}" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="{begin_time:.2f}s" fill="freeze"/></rect></clipPath>'
+            f'  <clipPath id="lc{idx}"><rect x="510" y="{y_val - 16:.2f}" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="{begin_time:.2f}s" fill="freeze"/></rect></clipPath>'
         )
     clip_paths_section = "\n".join(clip_paths)
 
@@ -198,20 +199,20 @@ def generate_svg(ascii_tspans, theme="dark"):
       <animate attributeName="height" from="0" to="620" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </rect>
   </mask>
-{{clip_paths_section}}
+{clip_paths_section}
   <style>
-    .ascii  {{ font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: {ascii_fill}; letter-spacing: -0.2px; }}
-    .key    {{ font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: {key_fill}; font-weight: bold; }}
-    .value  {{ font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: {value_fill}; }}
-    .cc     {{ font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: {cc_fill}; }}
-    .head   {{ font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: {head_fill}; font-weight: bold; text-shadow: 0 0 5px {head_fill}; }}
-    .accent {{ font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: {accent_fill}; font-weight: bold; text-shadow: 0 0 5px {accent_fill}; }}
+    .ascii  {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 7.4px; fill: {ascii_fill}; letter-spacing: -0.2px; }}
+    .key    {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 15px; fill: {key_fill}; font-weight: bold; }}
+    .value  {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 15px; fill: {value_fill}; }}
+    .cc     {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 15px; fill: {cc_fill}; }}
+    .head   {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 17px; fill: {head_fill}; font-weight: bold; text-shadow: 0 0 5px {head_fill}; }}
+    .accent {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 15px; fill: {accent_fill}; font-weight: bold; text-shadow: 0 0 5px {accent_fill}; }}
     text, tspan {{ white-space: pre; }}
     
-    .term-label {{ font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: {term_label_fill}; letter-spacing: 0.5px; }}
-    .scan-label {{ font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: {scan_label_fill}; letter-spacing: 1px; animation: blinker 1s steps(2, start) infinite; }}
-    .panel-title {{ font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: {panel_title_fill}; letter-spacing: 2px; opacity: {panel_title_opacity}; }}
-    .cursor-blink {{ fill: {cursor_fill}; }}
+    .term-label {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 12px; fill: {term_label_fill}; letter-spacing: 0.5px; }}
+    .scan-label {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 10px; fill: {scan_label_fill}; letter-spacing: 1px; animation: blinker 1s steps(2, start) infinite; }}
+    .panel-title {{ font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 11px; fill: {panel_title_fill}; letter-spacing: 2px; opacity: {panel_title_opacity}; }}
+    .cursor-blink {{ fill: {cursor_fill}; animation: blinker 1.2s steps(2, start) infinite; }}
     
     .neon-pulsing-border {{
       stroke: url(#borderGrad);
@@ -255,22 +256,19 @@ def generate_svg(ascii_tspans, theme="dark"):
 </g>
 
 <g transform="translate(0,38)">
-  <rect x="14" y="26" width="488" height="490" rx="14" fill="{panel_bg}" fill-opacity="{panel_bg_opacity}" stroke="url(#borderGrad)" stroke-width="1.5" class="neon-pulsing-border" opacity="{panel_border_opacity}"/>
-  <rect x="508" y="10" width="655" height="524" rx="14" fill="{panel_bg}" fill-opacity="{panel_bg_opacity}" stroke="url(#borderGrad)" stroke-width="1.5" class="neon-pulsing-border" opacity="{panel_border_opacity}"/>
-  <text x="30" y="24" class="panel-title flicker-deck">[ BIO.PROFILE ]</text>
-  <text x="524" y="24" class="panel-title flicker-deck">[ SYSTEM.DIAGNOSTICS ]</text>
+  <rect x="14" y="22" width="488" height="548" rx="14" fill="{panel_bg}" fill-opacity="{panel_bg_opacity}" stroke="url(#borderGrad)" stroke-width="1.5" class="neon-pulsing-border" opacity="{panel_border_opacity}"/>
+  <rect x="516" y="22" width="650" height="548" rx="14" fill="{panel_bg}" fill-opacity="{panel_bg_opacity}" stroke="url(#borderGrad)" stroke-width="1.5" class="neon-pulsing-border" opacity="{panel_border_opacity}"/>
+  <text x="30" y="14" class="panel-title flicker-deck">[ BIO.PROFILE ]</text>
+  <text x="532" y="14" class="panel-title flicker-deck">[ SYSTEM.DIAGNOSTICS ]</text>
 
   <g mask="url(#revealMask)">
     <text x="30" y="0" class="ascii">
 {ascii_tspans}
     </text>
+    <text x="258" y="535" text-anchor="middle" class="accent" font-size="12.5px">&quot;Every line of code is a step closer to the future&quot;</text>
   </g>
 
 {text_section}
-
-  <rect x="522" y="491.0" width="9" height="16" class="cursor-blink" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
-  </rect>
 </g>
 
 <rect x="3" y="3" width="1174" height="622" rx="16" fill="none" class="neon-pulsing-border" opacity="{global_border_opacity}"/>
