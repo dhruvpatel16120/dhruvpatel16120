@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C715F7&center=true&width=575&lines=Welcome+To+My+CodeSpace+!....;Hello+%2CI+am+Dhruv+Patel%F0%9F%91%8B%F0%9F%8F%BB+;I+am+CSE+Student+And+Explorer;Check+Out+My+Work+Here+!..." alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <a href="https://dhru">
+  <a href="https://dhruvpatelofficial.vercel.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvpatel16120/dhruvpatel16120/main/dark.svg">
       <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/dhruvpatel16120/dhruvpatel16120/main/light.svg" width="100%">
@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 # 🌟 I Believe in :-
 
 <table align="center" style="width:100%; max-width:1400px;">
@@ -50,9 +49,7 @@
 </table>
 
 ---
-
-<a name="contact"></a>
-## 🌐 ESTABLISH_CONNECTION WITH ME
+## 🌐 Let's Connect and Grow Together !
 <div align="center">
   <table align="center" style="width:100%; max-width:900px; margin:auto;" cellspacing="15" cellpadding="0">
     <tr>
