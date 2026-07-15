@@ -59,11 +59,12 @@ def generate_tspans(ascii_lines, start_x=30, start_y=79.98, line_height=7.55):
 
 if __name__ == "__main__":
     # Path to the user's profile image
-    base_dir = r"c:\Users\digit\OneDrive\Desktop\github profile"
+    base_dir = os.getcwd()
+    print(base_dir)
     img_path = os.path.join(base_dir, "profile.png")
     
     # Output paths inside user's directory
-    output_dir = os.path.join(base_dir, "dhruvpatel16120")
+    output_dir = os.getcwd()  # Current working directory
     txt_path = os.path.join(output_dir, "portrait.txt")
     tspan_path = os.path.join(output_dir, "portrait_tspan.txt")
     tspan_dark_path = os.path.join(output_dir, "portrait_tspan_dark.txt")

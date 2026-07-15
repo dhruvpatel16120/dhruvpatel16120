@@ -281,7 +281,7 @@ def generate_svg(ascii_tspans, theme="dark"):
     return svg_content
 
 if __name__ == "__main__":
-    work_dir = r"c:\Users\digit\OneDrive\Desktop\github profile\dhruvpatel16120"
+    work_dir = os.getcwd()
     tspan_light_file = os.path.join(work_dir, "portrait_tspan.txt")
     tspan_dark_file = os.path.join(work_dir, "portrait_tspan_dark.txt")
     
